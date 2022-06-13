@@ -1,0 +1,102 @@
+# This workflow will build and push a web application to an Azure Static Web App when you change your code.
+#
+# This workflow assumes you have already created the target Azure Static Web App.
+# For instructions see https://docs.microsoft.com/azure/static-web-apps/get-started-portal?tabs=vanilla-javascript
+#
+# To configure this workflow:
+#
+# 1. Set up a secret in your repository named AZURE_STATIC_WEB_APPS_API_TOKEN with the value of your Static Web Apps deployment token.
+#    For instructions on obtaining the deployment token see: https://docs.microsoft.com/azure/static-web-apps/deployment-token-management
+#
+# 3. Change the values for the APP_LOCATION, API_LOCATION and APP_ARTIFACT_LOCATION, AZURE_STATIC_WEB_APPS_API_TOKEN environment variables (below).
+#    For instructions on setting up the appropriate configuration values go to https://docs.microsoft.com/azure/static-web-apps/front-end-frameworks
+name: Deploy web app to Azure Static Web Apps
+
+on:
+  push:
+    branches:
+      - main
+#   pull_request:
+#     types: [opened, synchronize, reopened, closed]
+#     branches:
+#       - main
+
+# Environment variables available to all jobs and steps in this workflow
+env:
+  APP_LOCATION: "/" # location of your client code
+  API_LOCATION: "/azure-function/Api" # location of your api source code - optional
+  APP_ARTIFACT_LOCATION: "build" # location of client code build output
+  AZURE_STATIC_WEB_APPS_API_TOKEN: "1526a5caafef2d836ce24fe2a2fc3d99b5ed9a71bf1579a6e95d88a2e39a25091-8d168cc9-d50d-4b94-8398-79294821fa3301e18326" #${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }} # secret containing deployment token for your static web app
+  ENCRYPTION_KEY: "sMRzHm&rh6"
+  
+jobs:
+  pull_repo:
+    if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.action != 'closed')
+    runs-on: ubuntu-latest
+    name: Ship it!!!
+    steps:
+      - name: Checkout secrets
+        uses: actions/checkout@v2
+ 
+#       - name: Decrypt secrets
+#         env:
+#           ENCRYPTION_KEY: ${{ env.ENCRYPTION_KEY }}
+#         run: |
+#           openssl aes-256-cbc -in .github/workflows/secrets/id_rsa.enc -out .github/workflows/secrets/id_rsa -pass pass:$ENCRYPTION_KEY -d -md sha1
+ 
+#       - name: Setup SSH agent
+#         env:
+#           SSH_AUTH_SOCK: /tmp/ssh_agent.sock
+#         run: |
+#           mkdir -p ~/.ssh
+#           ssh-keyscan github.com >> ~/.ssh/known_hosts
+ 
+#           ssh-agent -a $SSH_AUTH_SOCK > /dev/null
+#           chmod 0600 .github/workflows/secrets/id_rsa
+#           ssh-add .github/workflows/secrets/id_rsa
+ 
+#       - name: Checkout
+#         env:
+#           SSH_AUTH_SOCK: /tmp/ssh_agent.sock
+#         run: | 
+#           git clone git@github.com:Ofekw/halommr.git azure-function
+#           echo 'ls current directory -------------------'
+#           ls
+#           echo 'ls azure-function -------------------'
+#           ls azure-function/
+#           echo 'pwd -------------------'
+#           pwd
+
+      - name: Build and Deploy Job
+        id: builddeploy
+        uses: Azure/static-web-apps-deploy@v1
+        with:
+          azure_static_web_apps_api_token: ${{ env.AZURE_STATIC_WEB_APPS_API_TOKEN }} # secret containing api token for app
+          repo_token: ${{ secrets.GITHUB_TOKEN }} # Used for Github integrations (i.e. PR comments)
+          action: "upload"
+          ###### Repository/Build Configurations - These values can be configured to match you app requirements. ######
+          # For more information regarding Static Web App workflow configurations, please visit: https://aka.ms/swaworkflowconfig
+          app_location: ${{ env.APP_LOCATION }}
+          #api_location: ${{ env.API_LOCATION }}
+          app_artifact_location: ${{ env.APP_ARTIFACT_LOCATION }}
+          ###### End of Repository/Build Configurations ######
+
+      # - name: Cleanup
+      #   if: always()
+      #   env:
+      #     SSH_AUTH_SOCK: /tmp/ssh_agent.sock
+      #   run: |
+      #     ssh-add -D
+      #     rm -Rf *
+
+  close_pull_request_job:
+    if: github.event_name == 'pull_request' && github.event.action == 'closed'
+    runs-on: ubuntu-latest
+    name: Close Pull Request Job
+    steps:
+      - name: Close Pull Request
+        id: closepullrequest
+        uses: Azure/static-web-apps-deploy@v1
+        with:
+          azure_static_web_apps_api_token: ${{ env.AZURE_STATIC_WEB_APPS_API_TOKEN }} # secret containing api token for app
+          action: "close"

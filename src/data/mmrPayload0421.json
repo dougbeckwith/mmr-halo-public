@@ -1,0 +1,2944 @@
+{
+    "matchSummaryResults": {
+        "d97a7525-46b7-4763-9683-090ce1f242b0": {
+            "matchId": "d97a7525-46b7-4763-9683-090ce1f242b0",
+            "matchInfo": {
+                "startTime": "2022-04-21T07:41:16.7Z",
+                "endTime": "2022-04-21T07:49:47.978Z",
+                "duration": "PT7M57.9887489S",
+                "lifecycleMode": 3,
+                "gameVariantCategory": 6,
+                "levelId": "19dfcede-dcd1-45a8-8a77-2b58ce65484f",
+                "mapVariant": {
+                    "assetKind": 2,
+                    "assetId": "f0a1760f-0d4a-4bcc-ac7a-e8f9aee331dc",
+                    "versionId": "8fe78376-245d-4886-bd31-438f48abd6e5"
+                },
+                "ugcGameVariant": {
+                    "assetKind": 6,
+                    "assetId": "1e8cd10b-1496-423b-8699-f98f6f5db67e",
+                    "versionId": "4155142e-b867-4030-a8a0-d5f44f9dce60"
+                },
+                "clearanceId": "e3dcbdc1-fac4-48f0-9cf3-618106317e41",
+                "playlist": {
+                    "assetKind": 3,
+                    "assetId": "aa41f6a9-51be-4f25-a53f-48192ce14de7",
+                    "versionId": "685d22b5-144e-4633-bde9-e58a559b153a"
+                },
+                "playlistExperience": 2,
+                "playlistMapModePair": {
+                    "assetKind": 7,
+                    "assetId": "ef0b230b-c331-4969-8ec1-fe74aa5931c9",
+                    "versionId": "990ea1d2-cfd0-4dde-91dc-14da651ce078"
+                },
+                "seasonId": "Seasons/Season6-2.json",
+                "playableDuration": "PT7M57.969S",
+                "teamsEnabled": true,
+                "teamScoringEnabled": true
+            },
+            "lastTeamId": 1,
+            "outcome": 4,
+            "rank": 9,
+            "presentAtEndOfMatch": false
+        },
+        "146edf3d-f237-4b3a-9bc5-d7875357a3fb": {
+            "matchId": "146edf3d-f237-4b3a-9bc5-d7875357a3fb",
+            "matchInfo": {
+                "startTime": "2022-04-21T07:33:48.027Z",
+                "endTime": "2022-04-21T07:40:11.197Z",
+                "duration": "PT6M4.1281365S",
+                "lifecycleMode": 3,
+                "gameVariantCategory": 6,
+                "levelId": "dc3a5b2a-180a-4544-8bc1-ee4ea1338900",
+                "mapVariant": {
+                    "assetKind": 2,
+                    "assetId": "b6aca0c7-8ba7-4066-bf91-693571374c3c",
+                    "versionId": "680be923-f373-4b21-9be7-c5c249a58652"
+                },
+                "ugcGameVariant": {
+                    "assetKind": 6,
+                    "assetId": "1e8cd10b-1496-423b-8699-f98f6f5db67e",
+                    "versionId": "4155142e-b867-4030-a8a0-d5f44f9dce60"
+                },
+                "clearanceId": "e3dcbdc1-fac4-48f0-9cf3-618106317e41",
+                "playlist": {
+                    "assetKind": 3,
+                    "assetId": "aa41f6a9-51be-4f25-a53f-48192ce14de7",
+                    "versionId": "685d22b5-144e-4633-bde9-e58a559b153a"
+                },
+                "playlistExperience": 2,
+                "playlistMapModePair": {
+                    "assetKind": 7,
+                    "assetId": "9a2130fe-ff56-484e-840e-2238056a5f86",
+                    "versionId": "10ac5fda-96a7-4801-97d1-98311fa49a10"
+                },
+                "seasonId": "Seasons/Season6-2.json",
+                "playableDuration": "PT6M4.109S",
+                "teamsEnabled": true,
+                "teamScoringEnabled": true
+            },
+            "lastTeamId": 1,
+            "outcome": 2,
+            "rank": 1,
+            "presentAtEndOfMatch": true
+        },
+        "110f5fda-e00b-4083-bf23-1ddc7365cd5a": {
+            "matchId": "110f5fda-e00b-4083-bf23-1ddc7365cd5a",
+            "matchInfo": {
+                "startTime": "2022-04-21T07:24:08.865Z",
+                "endTime": "2022-04-21T07:32:46.736Z",
+                "duration": "PT7M46.7722223S",
+                "lifecycleMode": 3,
+                "gameVariantCategory": 9,
+                "levelId": "c0264785-90c8-4946-bf16-06dbfd056bff",
+                "mapVariant": {
+                    "assetKind": 2,
+                    "assetId": "8420410b-044d-44d7-80b6-98a766c8c39f",
+                    "versionId": "068c0974-f748-41ba-b457-b8fed603576e"
+                },
+                "ugcGameVariant": {
+                    "assetKind": 6,
+                    "assetId": "aca7bbf8-7a18-4aae-8785-1bd3f58275fd",
+                    "versionId": "208e115d-e1e5-4f24-b209-802e4f19ef5e"
+                },
+                "clearanceId": "e3dcbdc1-fac4-48f0-9cf3-618106317e41",
+                "playlist": {
+                    "assetKind": 3,
+                    "assetId": "4af0b113-8696-4f22-9e09-596d473de933",
+                    "versionId": "db29c75b-7432-4fea-b37b-f7c6e347cef8"
+                },
+                "playlistExperience": 5,
+                "playlistMapModePair": {
+                    "assetKind": 7,
+                    "assetId": "f181f06c-7da1-4cb0-8266-a45eed9d755d",
+                    "versionId": "98ccb2d9-0aec-4a74-9f74-ac3cb29b1a3a"
+                },
+                "seasonId": "Seasons/Season6-2.json",
+                "playableDuration": "PT7M46.75S",
+                "teamsEnabled": true,
+                "teamScoringEnabled": true
+            },
+            "lastTeamId": 1,
+            "outcome": 2,
+            "rank": 1,
+            "presentAtEndOfMatch": true
+        },
+        "56ac93c0-e8ca-46d0-a778-494c90316e05": {
+            "matchId": "56ac93c0-e8ca-46d0-a778-494c90316e05",
+            "matchInfo": {
+                "startTime": "2022-04-21T07:13:33.323Z",
+                "endTime": "2022-04-21T07:23:12.963Z",
+                "duration": "PT9M18.3720631S",
+                "lifecycleMode": 3,
+                "gameVariantCategory": 9,
+                "levelId": "9755c3a8-5e3c-4352-a78e-370607db660d",
+                "mapVariant": {
+                    "assetKind": 2,
+                    "assetId": "56a11b8c-64d1-4537-8893-a9241e4d5b93",
+                    "versionId": "7804214e-c463-49e9-b269-d22694142916"
+                },
+                "ugcGameVariant": {
+                    "assetKind": 6,
+                    "assetId": "aca7bbf8-7a18-4aae-8785-1bd3f58275fd",
+                    "versionId": "208e115d-e1e5-4f24-b209-802e4f19ef5e"
+                },
+                "clearanceId": "e3dcbdc1-fac4-48f0-9cf3-618106317e41",
+                "playlist": {
+                    "assetKind": 3,
+                    "assetId": "4af0b113-8696-4f22-9e09-596d473de933",
+                    "versionId": "db29c75b-7432-4fea-b37b-f7c6e347cef8"
+                },
+                "playlistExperience": 5,
+                "playlistMapModePair": {
+                    "assetKind": 7,
+                    "assetId": "55a007a3-fd7f-4b15-b64c-4dd038fb7ad8",
+                    "versionId": "65f8f4f0-6af2-4f32-a7d8-214ff87bd665"
+                },
+                "seasonId": "Seasons/Season6-2.json",
+                "playableDuration": "PT9M18.343S",
+                "teamsEnabled": true,
+                "teamScoringEnabled": true
+            },
+            "lastTeamId": 0,
+            "outcome": 2,
+            "rank": 1,
+            "presentAtEndOfMatch": true
+        },
+        "bc7af92c-2a1f-49cb-95ab-414731247ea6": {
+            "matchId": "bc7af92c-2a1f-49cb-95ab-414731247ea6",
+            "matchInfo": {
+                "startTime": "2022-04-21T07:08:59.079Z",
+                "endTime": "2022-04-21T07:16:53.425Z",
+                "duration": "PT7M17.5563441S",
+                "lifecycleMode": 3,
+                "gameVariantCategory": 9,
+                "levelId": "c0264785-90c8-4946-bf16-06dbfd056bff",
+                "mapVariant": {
+                    "assetKind": 2,
+                    "assetId": "8420410b-044d-44d7-80b6-98a766c8c39f",
+                    "versionId": "068c0974-f748-41ba-b457-b8fed603576e"
+                },
+                "ugcGameVariant": {
+                    "assetKind": 6,
+                    "assetId": "aca7bbf8-7a18-4aae-8785-1bd3f58275fd",
+                    "versionId": "208e115d-e1e5-4f24-b209-802e4f19ef5e"
+                },
+                "clearanceId": "e3dcbdc1-fac4-48f0-9cf3-618106317e41",
+                "playlist": {
+                    "assetKind": 3,
+                    "assetId": "4af0b113-8696-4f22-9e09-596d473de933",
+                    "versionId": "db29c75b-7432-4fea-b37b-f7c6e347cef8"
+                },
+                "playlistExperience": 5,
+                "playlistMapModePair": {
+                    "assetKind": 7,
+                    "assetId": "f181f06c-7da1-4cb0-8266-a45eed9d755d",
+                    "versionId": "98ccb2d9-0aec-4a74-9f74-ac3cb29b1a3a"
+                },
+                "seasonId": "Seasons/Season6-2.json",
+                "playableDuration": "PT7M17.547S",
+                "teamsEnabled": true,
+                "teamScoringEnabled": true
+            },
+            "lastTeamId": 1,
+            "outcome": 4,
+            "rank": 9,
+            "presentAtEndOfMatch": false
+        },
+        "bb686abc-702c-4480-9a3c-55c7f757ea95": {
+            "matchId": "bb686abc-702c-4480-9a3c-55c7f757ea95",
+            "matchInfo": {
+                "startTime": "2022-04-21T02:03:50.137Z",
+                "endTime": "2022-04-21T02:07:31.527Z",
+                "duration": "PT3M15.2355863S",
+                "lifecycleMode": 3,
+                "gameVariantCategory": 11,
+                "levelId": "c0264785-90c8-4946-bf16-06dbfd056bff",
+                "mapVariant": {
+                    "assetKind": 2,
+                    "assetId": "8420410b-044d-44d7-80b6-98a766c8c39f",
+                    "versionId": "8ed490af-c0e1-4e0a-b610-50aae3dc053c"
+                },
+                "ugcGameVariant": {
+                    "assetKind": 6,
+                    "assetId": "22b8a0eb-0d02-4eb3-8f56-5f63fc254f83",
+                    "versionId": "2cdb80b0-2a02-4934-a649-2911368d49e1"
+                },
+                "clearanceId": "e3dcbdc1-fac4-48f0-9cf3-618106317e41",
+                "playlist": {
+                    "assetKind": 3,
+                    "assetId": "edfef3ac-9cbe-4fa2-b949-8f29deafd483",
+                    "versionId": "d8a072fa-fcb8-4f3e-add1-2eaf8d10180c"
+                },
+                "playlistExperience": 2,
+                "playlistMapModePair": {
+                    "assetKind": 7,
+                    "assetId": "9cdc376a-dcc2-42c1-bc91-df5fb75e6da9",
+                    "versionId": "fef47b0c-7261-43d3-a0d7-6027f3345af0"
+                },
+                "seasonId": "Seasons/Season6-2.json",
+                "playableDuration": "PT3M15.234S",
+                "teamsEnabled": true,
+                "teamScoringEnabled": true
+            },
+            "lastTeamId": 1,
+            "outcome": 2,
+            "rank": 1,
+            "presentAtEndOfMatch": true
+        },
+        "d0e6f4d8-64c4-404f-a6af-2a8b941a36f8": {
+            "matchId": "d0e6f4d8-64c4-404f-a6af-2a8b941a36f8",
+            "matchInfo": {
+                "startTime": "2022-04-21T02:43:40.855Z",
+                "endTime": "2022-04-21T03:02:42.029Z",
+                "duration": "PT18M42.12845S",
+                "lifecycleMode": 3,
+                "gameVariantCategory": 18,
+                "levelId": "dc3a5b2a-180a-4544-8bc1-ee4ea1338900",
+                "mapVariant": {
+                    "assetKind": 2,
+                    "assetId": "b6aca0c7-8ba7-4066-bf91-693571374c3c",
+                    "versionId": "c63ee410-784e-46ae-911e-ab7bc35933b1"
+                },
+                "ugcGameVariant": {
+                    "assetKind": 6,
+                    "assetId": "751bcc9d-aace-45a1-8d71-358f0bc89f7e",
+                    "versionId": "29f36248-0181-44ba-96a0-3c3b9b924085"
+                },
+                "clearanceId": "e3dcbdc1-fac4-48f0-9cf3-618106317e41",
+                "playlist": {
+                    "assetKind": 3,
+                    "assetId": "edfef3ac-9cbe-4fa2-b949-8f29deafd483",
+                    "versionId": "d8a072fa-fcb8-4f3e-add1-2eaf8d10180c"
+                },
+                "playlistExperience": 2,
+                "playlistMapModePair": {
+                    "assetKind": 7,
+                    "assetId": "ca4ffa61-a7fe-4e73-9d32-2b77c6ef8f03",
+                    "versionId": "e5dd5e50-6639-4cfd-9d46-e4b19b2ecaa8"
+                },
+                "seasonId": "Seasons/Season6-2.json",
+                "playableDuration": "PT18M26.984S",
+                "teamsEnabled": true,
+                "teamScoringEnabled": true
+            },
+            "lastTeamId": 0,
+            "outcome": 2,
+            "rank": 2,
+            "presentAtEndOfMatch": true
+        },
+        "174769d7-4f40-4cbd-b640-ec017c9bc884": {
+            "matchId": "174769d7-4f40-4cbd-b640-ec017c9bc884",
+            "matchInfo": {
+                "startTime": "2022-04-21T02:21:08.251Z",
+                "endTime": "2022-04-21T02:28:32.079Z",
+                "duration": "PT6M55.3040024S",
+                "lifecycleMode": 3,
+                "gameVariantCategory": 6,
+                "levelId": "c0264785-90c8-4946-bf16-06dbfd056bff",
+                "mapVariant": {
+                    "assetKind": 2,
+                    "assetId": "8420410b-044d-44d7-80b6-98a766c8c39f",
+                    "versionId": "8ed490af-c0e1-4e0a-b610-50aae3dc053c"
+                },
+                "ugcGameVariant": {
+                    "assetKind": 6,
+                    "assetId": "c2d20d44-8606-4669-b894-afae15b3524f",
+                    "versionId": "9eee25fe-39db-493f-ab0d-d95403df66b8"
+                },
+                "clearanceId": "e3dcbdc1-fac4-48f0-9cf3-618106317e41",
+                "playlist": {
+                    "assetKind": 3,
+                    "assetId": "edfef3ac-9cbe-4fa2-b949-8f29deafd483",
+                    "versionId": "d8a072fa-fcb8-4f3e-add1-2eaf8d10180c"
+                },
+                "playlistExperience": 2,
+                "playlistMapModePair": {
+                    "assetKind": 7,
+                    "assetId": "4376e40e-8841-4957-8596-506a626a2a96",
+                    "versionId": "7b871ed8-cc9a-4833-aaa8-9f00cd272394"
+                },
+                "seasonId": "Seasons/Season6-2.json",
+                "playableDuration": "PT6M55.297S",
+                "teamsEnabled": true,
+                "teamScoringEnabled": true
+            },
+            "lastTeamId": 0,
+            "outcome": 2,
+            "rank": 1,
+            "presentAtEndOfMatch": true
+        },
+        "eb7d2669-cacc-4895-b29e-2ff07255ad37": {
+            "matchId": "eb7d2669-cacc-4895-b29e-2ff07255ad37",
+            "matchInfo": {
+                "startTime": "2022-04-21T02:29:15.951Z",
+                "endTime": "2022-04-21T02:42:52.612Z",
+                "duration": "PT13M17.8774267S",
+                "lifecycleMode": 3,
+                "gameVariantCategory": 18,
+                "levelId": "c0264785-90c8-4946-bf16-06dbfd056bff",
+                "mapVariant": {
+                    "assetKind": 2,
+                    "assetId": "8420410b-044d-44d7-80b6-98a766c8c39f",
+                    "versionId": "8ed490af-c0e1-4e0a-b610-50aae3dc053c"
+                },
+                "ugcGameVariant": {
+                    "assetKind": 6,
+                    "assetId": "751bcc9d-aace-45a1-8d71-358f0bc89f7e",
+                    "versionId": "29f36248-0181-44ba-96a0-3c3b9b924085"
+                },
+                "clearanceId": "e3dcbdc1-fac4-48f0-9cf3-618106317e41",
+                "playlist": {
+                    "assetKind": 3,
+                    "assetId": "edfef3ac-9cbe-4fa2-b949-8f29deafd483",
+                    "versionId": "d8a072fa-fcb8-4f3e-add1-2eaf8d10180c"
+                },
+                "playlistExperience": 2,
+                "playlistMapModePair": {
+                    "assetKind": 7,
+                    "assetId": "8b810aa7-ca65-43cb-9037-793b783110c5",
+                    "versionId": "eac3b628-9e03-4512-90eb-8fcaea099639"
+                },
+                "seasonId": "Seasons/Season6-2.json",
+                "playableDuration": "PT13M10.312S",
+                "teamsEnabled": true,
+                "teamScoringEnabled": true
+            },
+            "lastTeamId": 1,
+            "outcome": 2,
+            "rank": 1,
+            "presentAtEndOfMatch": true
+        },
+        "fb1b5b35-a85f-4900-a822-81b4e77c1742": {
+            "matchId": "fb1b5b35-a85f-4900-a822-81b4e77c1742",
+            "matchInfo": {
+                "startTime": "2022-04-21T01:39:23.202Z",
+                "endTime": "2022-04-21T01:48:05.309Z",
+                "duration": "PT8M13.5767891S",
+                "lifecycleMode": 3,
+                "gameVariantCategory": 11,
+                "levelId": "c0264785-90c8-4946-bf16-06dbfd056bff",
+                "mapVariant": {
+                    "assetKind": 2,
+                    "assetId": "8420410b-044d-44d7-80b6-98a766c8c39f",
+                    "versionId": "8ed490af-c0e1-4e0a-b610-50aae3dc053c"
+                },
+                "ugcGameVariant": {
+                    "assetKind": 6,
+                    "assetId": "22b8a0eb-0d02-4eb3-8f56-5f63fc254f83",
+                    "versionId": "2cdb80b0-2a02-4934-a649-2911368d49e1"
+                },
+                "clearanceId": "e3dcbdc1-fac4-48f0-9cf3-618106317e41",
+                "playlist": {
+                    "assetKind": 3,
+                    "assetId": "edfef3ac-9cbe-4fa2-b949-8f29deafd483",
+                    "versionId": "d8a072fa-fcb8-4f3e-add1-2eaf8d10180c"
+                },
+                "playlistExperience": 2,
+                "playlistMapModePair": {
+                    "assetKind": 7,
+                    "assetId": "9cdc376a-dcc2-42c1-bc91-df5fb75e6da9",
+                    "versionId": "fef47b0c-7261-43d3-a0d7-6027f3345af0"
+                },
+                "seasonId": "Seasons/Season6-2.json",
+                "playableDuration": "PT8M13.563S",
+                "teamsEnabled": true,
+                "teamScoringEnabled": true
+            },
+            "lastTeamId": 0,
+            "outcome": 2,
+            "rank": 1,
+            "presentAtEndOfMatch": true
+        },
+        "76daef85-4554-423c-918b-d96945db9b10": {
+            "matchId": "76daef85-4554-423c-918b-d96945db9b10",
+            "matchInfo": {
+                "startTime": "2022-04-21T02:08:13.627Z",
+                "endTime": "2022-04-21T02:20:20.082Z",
+                "duration": "PT11M46.8464898S",
+                "lifecycleMode": 3,
+                "gameVariantCategory": 18,
+                "levelId": "dc3a5b2a-180a-4544-8bc1-ee4ea1338900",
+                "mapVariant": {
+                    "assetKind": 2,
+                    "assetId": "b6aca0c7-8ba7-4066-bf91-693571374c3c",
+                    "versionId": "c63ee410-784e-46ae-911e-ab7bc35933b1"
+                },
+                "ugcGameVariant": {
+                    "assetKind": 6,
+                    "assetId": "751bcc9d-aace-45a1-8d71-358f0bc89f7e",
+                    "versionId": "29f36248-0181-44ba-96a0-3c3b9b924085"
+                },
+                "clearanceId": "e3dcbdc1-fac4-48f0-9cf3-618106317e41",
+                "playlist": {
+                    "assetKind": 3,
+                    "assetId": "edfef3ac-9cbe-4fa2-b949-8f29deafd483",
+                    "versionId": "d8a072fa-fcb8-4f3e-add1-2eaf8d10180c"
+                },
+                "playlistExperience": 2,
+                "playlistMapModePair": {
+                    "assetKind": 7,
+                    "assetId": "ca4ffa61-a7fe-4e73-9d32-2b77c6ef8f03",
+                    "versionId": "e5dd5e50-6639-4cfd-9d46-e4b19b2ecaa8"
+                },
+                "seasonId": "Seasons/Season6-2.json",
+                "playableDuration": "PT11M39.266S",
+                "teamsEnabled": true,
+                "teamScoringEnabled": true
+            },
+            "lastTeamId": 0,
+            "outcome": 2,
+            "rank": 1,
+            "presentAtEndOfMatch": true
+        },
+        "abbc1d46-36cb-4012-a740-dd8c2b815bfd": {
+            "matchId": "abbc1d46-36cb-4012-a740-dd8c2b815bfd",
+            "matchInfo": {
+                "startTime": "2022-04-19T03:11:37.111Z",
+                "endTime": "2022-04-19T03:20:19.739Z",
+                "duration": "PT7M21.8205136S",
+                "lifecycleMode": 3,
+                "gameVariantCategory": 11,
+                "levelId": "19dfcede-dcd1-45a8-8a77-2b58ce65484f",
+                "mapVariant": {
+                    "assetKind": 2,
+                    "assetId": "f0a1760f-0d4a-4bcc-ac7a-e8f9aee331dc",
+                    "versionId": "89c80a8b-0eac-4f25-a4b0-fcd17222475d"
+                },
+                "ugcGameVariant": {
+                    "assetKind": 6,
+                    "assetId": "22b8a0eb-0d02-4eb3-8f56-5f63fc254f83",
+                    "versionId": "2cdb80b0-2a02-4934-a649-2911368d49e1"
+                },
+                "clearanceId": "1cc8b6b6-90d7-4034-9edd-2d5430cc6e93",
+                "playlist": {
+                    "assetKind": 3,
+                    "assetId": "edfef3ac-9cbe-4fa2-b949-8f29deafd483",
+                    "versionId": "d8a072fa-fcb8-4f3e-add1-2eaf8d10180c"
+                },
+                "playlistExperience": 2,
+                "playlistMapModePair": {
+                    "assetKind": 7,
+                    "assetId": "40b19c6b-0355-454e-98b4-21f07771e3ab",
+                    "versionId": "f2397592-08bb-4587-a1a1-7eacd2541dca"
+                },
+                "seasonId": "Seasons/Season6-2.json",
+                "playableDuration": "PT7M21.813S",
+                "teamsEnabled": true,
+                "teamScoringEnabled": true
+            },
+            "lastTeamId": 1,
+            "outcome": 2,
+            "rank": 1,
+            "presentAtEndOfMatch": true
+        },
+        "d02d1c92-2e12-49a1-85dc-ed9d0b65eb98": {
+            "matchId": "d02d1c92-2e12-49a1-85dc-ed9d0b65eb98",
+            "matchInfo": {
+                "startTime": "2022-04-21T01:52:50.592Z",
+                "endTime": "2022-04-21T02:00:55.073Z",
+                "duration": "PT7M37.1436171S",
+                "lifecycleMode": 3,
+                "gameVariantCategory": 15,
+                "levelId": "1ddfa173-a544-46e6-9dae-671e7e369a0c",
+                "mapVariant": {
+                    "assetKind": 2,
+                    "assetId": "298d5036-cd43-47b3-a4bd-31e127566593",
+                    "versionId": "bca803f0-4447-4a5a-aef4-b31e4be77076"
+                },
+                "ugcGameVariant": {
+                    "assetKind": 6,
+                    "assetId": "507191c6-a492-4331-b2ae-a172101eb23e",
+                    "versionId": "ee8c890b-a95f-4154-bac6-0009992d74f6"
+                },
+                "clearanceId": "e3dcbdc1-fac4-48f0-9cf3-618106317e41",
+                "playlist": {
+                    "assetKind": 3,
+                    "assetId": "edfef3ac-9cbe-4fa2-b949-8f29deafd483",
+                    "versionId": "d8a072fa-fcb8-4f3e-add1-2eaf8d10180c"
+                },
+                "playlistExperience": 2,
+                "playlistMapModePair": {
+                    "assetKind": 7,
+                    "assetId": "6fd98bba-096f-465a-86b4-38b7ff1c3726",
+                    "versionId": "ce457e76-924b-4dc0-9015-8d74197f7967"
+                },
+                "seasonId": "Seasons/Season6-2.json",
+                "playableDuration": "PT7M37.141S",
+                "teamsEnabled": true,
+                "teamScoringEnabled": true
+            },
+            "lastTeamId": 1,
+            "outcome": 2,
+            "rank": 4,
+            "presentAtEndOfMatch": true
+        },
+        "4d499e70-d5f7-4ca0-a5b4-6271152b98e4": {
+            "matchId": "4d499e70-d5f7-4ca0-a5b4-6271152b98e4",
+            "matchInfo": {
+                "startTime": "2022-04-16T20:25:24.633Z",
+                "endTime": "2022-04-16T20:33:00.871Z",
+                "duration": "PT7M16.0214493S",
+                "lifecycleMode": 3,
+                "gameVariantCategory": 6,
+                "levelId": "c0264785-90c8-4946-bf16-06dbfd056bff",
+                "mapVariant": {
+                    "assetKind": 2,
+                    "assetId": "8420410b-044d-44d7-80b6-98a766c8c39f",
+                    "versionId": "c2429e4b-e78a-463f-965e-18e315b1dbe4"
+                },
+                "ugcGameVariant": {
+                    "assetKind": 6,
+                    "assetId": "073086ce-0971-47b2-9b5c-22c36583b691",
+                    "versionId": "14e2f157-45b2-4ca6-9bb8-2ef1d4000bcd"
+                },
+                "clearanceId": "1cc8b6b6-90d7-4034-9edd-2d5430cc6e93",
+                "playlist": {
+                    "assetKind": 3,
+                    "assetId": "70bb9184-e674-4307-8846-239ab4a30cb6",
+                    "versionId": "ac34beeb-fd8b-4a83-857a-084e4368cb9a"
+                },
+                "playlistExperience": 2,
+                "playlistMapModePair": {
+                    "assetKind": 7,
+                    "assetId": "a35d93b5-10d1-4b32-86e1-a64209dc6d9f",
+                    "versionId": "9b3f7023-61d4-469c-95cd-e20d0569c2f8"
+                },
+                "seasonId": "Seasons/Season6-2.json",
+                "playableDuration": "PT7M16.015S",
+                "teamsEnabled": true,
+                "teamScoringEnabled": true
+            },
+            "lastTeamId": 0,
+            "outcome": 2,
+            "rank": 1,
+            "presentAtEndOfMatch": true
+        },
+        "d841fec6-479d-4bcd-8c3f-deee7e8e04ac": {
+            "matchId": "d841fec6-479d-4bcd-8c3f-deee7e8e04ac",
+            "matchInfo": {
+                "startTime": "2022-04-19T02:55:41.146Z",
+                "endTime": "2022-04-19T03:10:03.516Z",
+                "duration": "PT13M53.8401527S",
+                "lifecycleMode": 3,
+                "gameVariantCategory": 18,
+                "levelId": "19dfcede-dcd1-45a8-8a77-2b58ce65484f",
+                "mapVariant": {
+                    "assetKind": 2,
+                    "assetId": "f0a1760f-0d4a-4bcc-ac7a-e8f9aee331dc",
+                    "versionId": "89c80a8b-0eac-4f25-a4b0-fcd17222475d"
+                },
+                "ugcGameVariant": {
+                    "assetKind": 6,
+                    "assetId": "751bcc9d-aace-45a1-8d71-358f0bc89f7e",
+                    "versionId": "29f36248-0181-44ba-96a0-3c3b9b924085"
+                },
+                "clearanceId": "1cc8b6b6-90d7-4034-9edd-2d5430cc6e93",
+                "playlist": {
+                    "assetKind": 3,
+                    "assetId": "edfef3ac-9cbe-4fa2-b949-8f29deafd483",
+                    "versionId": "d8a072fa-fcb8-4f3e-add1-2eaf8d10180c"
+                },
+                "playlistExperience": 2,
+                "playlistMapModePair": {
+                    "assetKind": 7,
+                    "assetId": "3eeeba49-302d-4fef-af88-46b266bceecd",
+                    "versionId": "84f90a60-a349-41d3-aceb-55cea76a0b81"
+                },
+                "seasonId": "Seasons/Season6-2.json",
+                "playableDuration": "PT13M38.64S",
+                "teamsEnabled": true,
+                "teamScoringEnabled": true
+            },
+            "lastTeamId": 1,
+            "outcome": 3,
+            "rank": 7,
+            "presentAtEndOfMatch": true
+        },
+        "d1d0e64f-656e-475a-a1fa-c40fcb09eb95": {
+            "matchId": "d1d0e64f-656e-475a-a1fa-c40fcb09eb95",
+            "matchInfo": {
+                "startTime": "2022-04-19T02:15:48.278Z",
+                "endTime": "2022-04-19T02:23:31.689Z",
+                "duration": "PT5M13.7275703S",
+                "lifecycleMode": 3,
+                "gameVariantCategory": 11,
+                "levelId": "19dfcede-dcd1-45a8-8a77-2b58ce65484f",
+                "mapVariant": {
+                    "assetKind": 2,
+                    "assetId": "f0a1760f-0d4a-4bcc-ac7a-e8f9aee331dc",
+                    "versionId": "89c80a8b-0eac-4f25-a4b0-fcd17222475d"
+                },
+                "ugcGameVariant": {
+                    "assetKind": 6,
+                    "assetId": "22b8a0eb-0d02-4eb3-8f56-5f63fc254f83",
+                    "versionId": "2cdb80b0-2a02-4934-a649-2911368d49e1"
+                },
+                "clearanceId": "1cc8b6b6-90d7-4034-9edd-2d5430cc6e93",
+                "playlist": {
+                    "assetKind": 3,
+                    "assetId": "edfef3ac-9cbe-4fa2-b949-8f29deafd483",
+                    "versionId": "d8a072fa-fcb8-4f3e-add1-2eaf8d10180c"
+                },
+                "playlistExperience": 2,
+                "playlistMapModePair": {
+                    "assetKind": 7,
+                    "assetId": "40b19c6b-0355-454e-98b4-21f07771e3ab",
+                    "versionId": "f2397592-08bb-4587-a1a1-7eacd2541dca"
+                },
+                "seasonId": "Seasons/Season6-2.json",
+                "playableDuration": "PT5M13.718S",
+                "teamsEnabled": true,
+                "teamScoringEnabled": true
+            },
+            "lastTeamId": 0,
+            "outcome": 2,
+            "rank": 1,
+            "presentAtEndOfMatch": true
+        },
+        "80ea22c2-831d-4c65-b5d8-36209c6cd42b": {
+            "matchId": "80ea22c2-831d-4c65-b5d8-36209c6cd42b",
+            "matchInfo": {
+                "startTime": "2022-04-21T01:30:41.583Z",
+                "endTime": "2022-04-21T01:38:09.006Z",
+                "duration": "PT7M7.5089432S",
+                "lifecycleMode": 3,
+                "gameVariantCategory": 6,
+                "levelId": "19dfcede-dcd1-45a8-8a77-2b58ce65484f",
+                "mapVariant": {
+                    "assetKind": 2,
+                    "assetId": "f0a1760f-0d4a-4bcc-ac7a-e8f9aee331dc",
+                    "versionId": "89c80a8b-0eac-4f25-a4b0-fcd17222475d"
+                },
+                "ugcGameVariant": {
+                    "assetKind": 6,
+                    "assetId": "c2d20d44-8606-4669-b894-afae15b3524f",
+                    "versionId": "9eee25fe-39db-493f-ab0d-d95403df66b8"
+                },
+                "clearanceId": "e3dcbdc1-fac4-48f0-9cf3-618106317e41",
+                "playlist": {
+                    "assetKind": 3,
+                    "assetId": "edfef3ac-9cbe-4fa2-b949-8f29deafd483",
+                    "versionId": "d8a072fa-fcb8-4f3e-add1-2eaf8d10180c"
+                },
+                "playlistExperience": 2,
+                "playlistMapModePair": {
+                    "assetKind": 7,
+                    "assetId": "892a4ca3-a682-40d6-850e-2addb57b0473",
+                    "versionId": "9ab002d6-6818-4aaa-9226-52f404811a0b"
+                },
+                "seasonId": "Seasons/Season6-2.json",
+                "playableDuration": "PT7M7.484S",
+                "teamsEnabled": true,
+                "teamScoringEnabled": true
+            },
+            "lastTeamId": 1,
+            "outcome": 3,
+            "rank": 5,
+            "presentAtEndOfMatch": true
+        },
+        "61de015a-e35f-4892-8cc8-8de2f758e0c3": {
+            "matchId": "61de015a-e35f-4892-8cc8-8de2f758e0c3",
+            "matchInfo": {
+                "startTime": "2022-04-19T01:58:12.712Z",
+                "endTime": "2022-04-19T02:14:26.353Z",
+                "duration": "PT15M56.9377304S",
+                "lifecycleMode": 3,
+                "gameVariantCategory": 15,
+                "levelId": "1ddfa173-a544-46e6-9dae-671e7e369a0c",
+                "mapVariant": {
+                    "assetKind": 2,
+                    "assetId": "298d5036-cd43-47b3-a4bd-31e127566593",
+                    "versionId": "bca803f0-4447-4a5a-aef4-b31e4be77076"
+                },
+                "ugcGameVariant": {
+                    "assetKind": 6,
+                    "assetId": "507191c6-a492-4331-b2ae-a172101eb23e",
+                    "versionId": "ee8c890b-a95f-4154-bac6-0009992d74f6"
+                },
+                "clearanceId": "1cc8b6b6-90d7-4034-9edd-2d5430cc6e93",
+                "playlist": {
+                    "assetKind": 3,
+                    "assetId": "edfef3ac-9cbe-4fa2-b949-8f29deafd483",
+                    "versionId": "d8a072fa-fcb8-4f3e-add1-2eaf8d10180c"
+                },
+                "playlistExperience": 2,
+                "playlistMapModePair": {
+                    "assetKind": 7,
+                    "assetId": "6fd98bba-096f-465a-86b4-38b7ff1c3726",
+                    "versionId": "ce457e76-924b-4dc0-9015-8d74197f7967"
+                },
+                "seasonId": "Seasons/Season6-2.json",
+                "playableDuration": "PT15M49.296S",
+                "teamsEnabled": true,
+                "teamScoringEnabled": true
+            },
+            "lastTeamId": 0,
+            "outcome": 2,
+            "rank": 2,
+            "presentAtEndOfMatch": true
+        },
+        "5fd59493-5f5f-4003-8f61-bd70c15fbb41": {
+            "matchId": "5fd59493-5f5f-4003-8f61-bd70c15fbb41",
+            "matchInfo": {
+                "startTime": "2022-04-19T02:25:04.653Z",
+                "endTime": "2022-04-19T02:39:54.385Z",
+                "duration": "PT14M23.8419432S",
+                "lifecycleMode": 3,
+                "gameVariantCategory": 18,
+                "levelId": "dc3a5b2a-180a-4544-8bc1-ee4ea1338900",
+                "mapVariant": {
+                    "assetKind": 2,
+                    "assetId": "b6aca0c7-8ba7-4066-bf91-693571374c3c",
+                    "versionId": "c63ee410-784e-46ae-911e-ab7bc35933b1"
+                },
+                "ugcGameVariant": {
+                    "assetKind": 6,
+                    "assetId": "751bcc9d-aace-45a1-8d71-358f0bc89f7e",
+                    "versionId": "29f36248-0181-44ba-96a0-3c3b9b924085"
+                },
+                "clearanceId": "1cc8b6b6-90d7-4034-9edd-2d5430cc6e93",
+                "playlist": {
+                    "assetKind": 3,
+                    "assetId": "edfef3ac-9cbe-4fa2-b949-8f29deafd483",
+                    "versionId": "d8a072fa-fcb8-4f3e-add1-2eaf8d10180c"
+                },
+                "playlistExperience": 2,
+                "playlistMapModePair": {
+                    "assetKind": 7,
+                    "assetId": "ca4ffa61-a7fe-4e73-9d32-2b77c6ef8f03",
+                    "versionId": "e5dd5e50-6639-4cfd-9d46-e4b19b2ecaa8"
+                },
+                "seasonId": "Seasons/Season6-2.json",
+                "playableDuration": "PT14M8.719S",
+                "teamsEnabled": true,
+                "teamScoringEnabled": true
+            },
+            "lastTeamId": 0,
+            "outcome": 3,
+            "rank": 6,
+            "presentAtEndOfMatch": true
+        },
+        "3addf8c1-b577-4e23-bf61-9cab0e029762": {
+            "matchId": "3addf8c1-b577-4e23-bf61-9cab0e029762",
+            "matchInfo": {
+                "startTime": "2022-04-19T01:47:16.583Z",
+                "endTime": "2022-04-19T01:53:27.517Z",
+                "duration": "PT5M27.9917358S",
+                "lifecycleMode": 3,
+                "gameVariantCategory": 6,
+                "levelId": "c0264785-90c8-4946-bf16-06dbfd056bff",
+                "mapVariant": {
+                    "assetKind": 2,
+                    "assetId": "8420410b-044d-44d7-80b6-98a766c8c39f",
+                    "versionId": "c2429e4b-e78a-463f-965e-18e315b1dbe4"
+                },
+                "ugcGameVariant": {
+                    "assetKind": 6,
+                    "assetId": "073086ce-0971-47b2-9b5c-22c36583b691",
+                    "versionId": "14e2f157-45b2-4ca6-9bb8-2ef1d4000bcd"
+                },
+                "clearanceId": "1cc8b6b6-90d7-4034-9edd-2d5430cc6e93",
+                "playlist": {
+                    "assetKind": 3,
+                    "assetId": "70bb9184-e674-4307-8846-239ab4a30cb6",
+                    "versionId": "ac34beeb-fd8b-4a83-857a-084e4368cb9a"
+                },
+                "playlistExperience": 2,
+                "playlistMapModePair": {
+                    "assetKind": 7,
+                    "assetId": "a35d93b5-10d1-4b32-86e1-a64209dc6d9f",
+                    "versionId": "9b3f7023-61d4-469c-95cd-e20d0569c2f8"
+                },
+                "seasonId": "Seasons/Season6-2.json",
+                "playableDuration": "PT5M27.985S",
+                "teamsEnabled": true,
+                "teamScoringEnabled": true
+            },
+            "lastTeamId": 0,
+            "outcome": 2,
+            "rank": 1,
+            "presentAtEndOfMatch": true
+        },
+        "7a9a6d84-1b60-408d-9d14-67ee91321029": {
+            "matchId": "7a9a6d84-1b60-408d-9d14-67ee91321029",
+            "matchInfo": {
+                "startTime": "2022-04-19T01:36:31.82Z",
+                "endTime": "2022-04-19T01:44:58.424Z",
+                "duration": "PT7M43.8122664S",
+                "lifecycleMode": 3,
+                "gameVariantCategory": 6,
+                "levelId": "dc3a5b2a-180a-4544-8bc1-ee4ea1338900",
+                "mapVariant": {
+                    "assetKind": 2,
+                    "assetId": "b6aca0c7-8ba7-4066-bf91-693571374c3c",
+                    "versionId": "c63ee410-784e-46ae-911e-ab7bc35933b1"
+                },
+                "ugcGameVariant": {
+                    "assetKind": 6,
+                    "assetId": "c2d20d44-8606-4669-b894-afae15b3524f",
+                    "versionId": "9eee25fe-39db-493f-ab0d-d95403df66b8"
+                },
+                "clearanceId": "1cc8b6b6-90d7-4034-9edd-2d5430cc6e93",
+                "playlist": {
+                    "assetKind": 3,
+                    "assetId": "f7f30787-f607-436b-bdec-44c65bc2ecef",
+                    "versionId": "53334757-5b70-4e04-b39a-7652ef5ab932"
+                },
+                "playlistExperience": 2,
+                "playlistMapModePair": {
+                    "assetKind": 7,
+                    "assetId": "8e5297bd-02e4-4e89-8a1a-68a9a3aa2457",
+                    "versionId": "fa134240-2861-49ed-8ed3-64dbc329f2eb"
+                },
+                "seasonId": "Seasons/Season6-2.json",
+                "playableDuration": "PT7M43.797S",
+                "teamsEnabled": true,
+                "teamScoringEnabled": true
+            },
+            "lastTeamId": 1,
+            "outcome": 3,
+            "rank": 7,
+            "presentAtEndOfMatch": true
+        },
+        "ef3b253f-c510-4618-b053-a12ac62b2336": {
+            "matchId": "ef3b253f-c510-4618-b053-a12ac62b2336",
+            "matchInfo": {
+                "startTime": "2022-04-16T20:10:43.88Z",
+                "endTime": "2022-04-16T20:24:24.904Z",
+                "duration": "PT10M10.7461666S",
+                "lifecycleMode": 3,
+                "gameVariantCategory": 6,
+                "levelId": "a17d1839-cab3-4477-ac36-8cbbfaed80cb",
+                "mapVariant": {
+                    "assetKind": 2,
+                    "assetId": "c494ef7c-d203-42a9-9c0f-b3f576334501",
+                    "versionId": "e7b22fbf-c768-43db-8fc7-9a5ac5ccc7d6"
+                },
+                "ugcGameVariant": {
+                    "assetKind": 6,
+                    "assetId": "920d628c-9eae-47a6-b96c-d141cf36ade2",
+                    "versionId": "457cbadd-5650-44fb-b749-88ca50e89746"
+                },
+                "clearanceId": "1cc8b6b6-90d7-4034-9edd-2d5430cc6e93",
+                "playlist": {
+                    "assetKind": 3,
+                    "assetId": "dc4929de-216c-43bc-b207-1702253f4576",
+                    "versionId": "ecc94d67-2071-4c61-be4a-ef2c5a3d3cba"
+                },
+                "playlistExperience": 3,
+                "playlistMapModePair": {
+                    "assetKind": 7,
+                    "assetId": "76670363-b7a9-4b75-ae55-cc89948253ee",
+                    "versionId": "ee90fa79-c375-4be2-85b8-13906a70c255"
+                },
+                "seasonId": "Seasons/Season6-2.json",
+                "playableDuration": "PT10M10.719S",
+                "teamsEnabled": true,
+                "teamScoringEnabled": true
+            },
+            "lastTeamId": 1,
+            "outcome": 3,
+            "rank": 13,
+            "presentAtEndOfMatch": true
+        },
+        "9048e42d-53ce-4bb0-9130-902c9222dbe1": {
+            "matchId": "9048e42d-53ce-4bb0-9130-902c9222dbe1",
+            "matchInfo": {
+                "startTime": "2022-04-19T03:21:39.032Z",
+                "endTime": "2022-04-19T03:32:15.713Z",
+                "duration": "PT10M9.3590371S",
+                "lifecycleMode": 3,
+                "gameVariantCategory": 11,
+                "levelId": "c0264785-90c8-4946-bf16-06dbfd056bff",
+                "mapVariant": {
+                    "assetKind": 2,
+                    "assetId": "8420410b-044d-44d7-80b6-98a766c8c39f",
+                    "versionId": "8ed490af-c0e1-4e0a-b610-50aae3dc053c"
+                },
+                "ugcGameVariant": {
+                    "assetKind": 6,
+                    "assetId": "22b8a0eb-0d02-4eb3-8f56-5f63fc254f83",
+                    "versionId": "2cdb80b0-2a02-4934-a649-2911368d49e1"
+                },
+                "clearanceId": "1cc8b6b6-90d7-4034-9edd-2d5430cc6e93",
+                "playlist": {
+                    "assetKind": 3,
+                    "assetId": "edfef3ac-9cbe-4fa2-b949-8f29deafd483",
+                    "versionId": "d8a072fa-fcb8-4f3e-add1-2eaf8d10180c"
+                },
+                "playlistExperience": 2,
+                "playlistMapModePair": {
+                    "assetKind": 7,
+                    "assetId": "9cdc376a-dcc2-42c1-bc91-df5fb75e6da9",
+                    "versionId": "fef47b0c-7261-43d3-a0d7-6027f3345af0"
+                },
+                "seasonId": "Seasons/Season6-2.json",
+                "playableDuration": "PT10M9.36S",
+                "teamsEnabled": true,
+                "teamScoringEnabled": true
+            },
+            "lastTeamId": 0,
+            "outcome": 2,
+            "rank": 1,
+            "presentAtEndOfMatch": true
+        },
+        "506a01d7-15c7-417c-b105-5f0d5d00dad3": {
+            "matchId": "506a01d7-15c7-417c-b105-5f0d5d00dad3",
+            "matchInfo": {
+                "startTime": "2022-04-19T02:40:48.481Z",
+                "endTime": "2022-04-19T02:54:09.004Z",
+                "duration": "PT12M54.7992506S",
+                "lifecycleMode": 3,
+                "gameVariantCategory": 15,
+                "levelId": "1ddfa173-a544-46e6-9dae-671e7e369a0c",
+                "mapVariant": {
+                    "assetKind": 2,
+                    "assetId": "298d5036-cd43-47b3-a4bd-31e127566593",
+                    "versionId": "bca803f0-4447-4a5a-aef4-b31e4be77076"
+                },
+                "ugcGameVariant": {
+                    "assetKind": 6,
+                    "assetId": "507191c6-a492-4331-b2ae-a172101eb23e",
+                    "versionId": "ee8c890b-a95f-4154-bac6-0009992d74f6"
+                },
+                "clearanceId": "1cc8b6b6-90d7-4034-9edd-2d5430cc6e93",
+                "playlist": {
+                    "assetKind": 3,
+                    "assetId": "edfef3ac-9cbe-4fa2-b949-8f29deafd483",
+                    "versionId": "d8a072fa-fcb8-4f3e-add1-2eaf8d10180c"
+                },
+                "playlistExperience": 2,
+                "playlistMapModePair": {
+                    "assetKind": 7,
+                    "assetId": "6fd98bba-096f-465a-86b4-38b7ff1c3726",
+                    "versionId": "ce457e76-924b-4dc0-9015-8d74197f7967"
+                },
+                "seasonId": "Seasons/Season6-2.json",
+                "playableDuration": "PT12M54.781S",
+                "teamsEnabled": true,
+                "teamScoringEnabled": true
+            },
+            "lastTeamId": 1,
+            "outcome": 2,
+            "rank": 2,
+            "presentAtEndOfMatch": true
+        },
+        "33f72c89-b23f-423e-a63d-ab48f3c38fd0": {
+            "matchId": "33f72c89-b23f-423e-a63d-ab48f3c38fd0",
+            "matchInfo": {
+                "startTime": "2022-04-16T19:58:35.45Z",
+                "endTime": "2022-04-16T20:09:29.75Z",
+                "duration": "PT10M6.7789001S",
+                "lifecycleMode": 3,
+                "gameVariantCategory": 18,
+                "levelId": "c0264785-90c8-4946-bf16-06dbfd056bff",
+                "mapVariant": {
+                    "assetKind": 2,
+                    "assetId": "8420410b-044d-44d7-80b6-98a766c8c39f",
+                    "versionId": "b77e09fb-efee-4892-baaa-c269668d058c"
+                },
+                "ugcGameVariant": {
+                    "assetKind": 6,
+                    "assetId": "d3aa10fe-502d-4778-8bc2-db5c3a9242ad",
+                    "versionId": "bf90f526-d11a-4619-a84d-bfe7d6e9ac8d"
+                },
+                "clearanceId": "1cc8b6b6-90d7-4034-9edd-2d5430cc6e93",
+                "playlist": {
+                    "assetKind": 3,
+                    "assetId": "bdceefb3-1c52-4848-a6b7-d49acd13109d",
+                    "versionId": "81465d89-ae3e-4f22-9f36-a9beaf162b2a"
+                },
+                "playlistExperience": 2,
+                "playlistMapModePair": {
+                    "assetKind": 7,
+                    "assetId": "84d6755d-3264-4a18-8324-268bc4fb1bd2",
+                    "versionId": "68f4632b-a3a6-4cfe-b77c-923dc9f2e40e"
+                },
+                "seasonId": "Seasons/Season6-2.json",
+                "playableDuration": "PT9M59.203S",
+                "teamsEnabled": true,
+                "teamScoringEnabled": true
+            },
+            "lastTeamId": 0,
+            "outcome": 2,
+            "rank": 1,
+            "presentAtEndOfMatch": true
+        }
+    },
+    "matchSkillResults": {
+        "d97a7525-46b7-4763-9683-090ce1f242b0": {
+            "value": [
+                {
+                    "id": "xuid(2533274964142528)",
+                    "resultCode": 0,
+                    "result": {
+                        "teamMmr": 1045.4325153994762,
+                        "rankRecap": {
+                            "preMatchCsr": {
+                                "value": 0,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "",
+                                "tierStart": 0,
+                                "subTier": 0,
+                                "nextTier": "",
+                                "nextTierStart": 0,
+                                "initialMeasurementMatches": 0
+                            },
+                            "postMatchCsr": {
+                                "value": 0,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "",
+                                "tierStart": 0,
+                                "subTier": 0,
+                                "nextTier": "",
+                                "nextTierStart": 0,
+                                "initialMeasurementMatches": 0
+                            }
+                        },
+                        "statPerformances": {
+                            "kills": {
+                                "count": 4,
+                                "expected": 5.196070032701448,
+                                "stdDev": 2.5186154504853353
+                            },
+                            "deaths": {
+                                "count": 4,
+                                "expected": 3.6996828401623785,
+                                "stdDev": 2.3327491734397303
+                            }
+                        },
+                        "teamId": 1,
+                        "teamMmrs": {
+                            "0": 1282.2694538650035,
+                            "1": 1045.4325153994762
+                        },
+                        "rankedRewards": null,
+                        "counterfactuals": {
+                            "selfCounterfactuals": {
+                                "kills": 5.196070032701448,
+                                "deaths": 3.6996828401623785
+                            },
+                            "tierCounterfactuals": {
+                                "bronze": null,
+                                "silver": null,
+                                "gold": null,
+                                "platinum": null,
+                                "diamond": null,
+                                "onyx": null
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "146edf3d-f237-4b3a-9bc5-d7875357a3fb": {
+            "value": [
+                {
+                    "id": "xuid(2533274964142528)",
+                    "resultCode": 0,
+                    "result": {
+                        "teamMmr": 1498.0622582148358,
+                        "rankRecap": {
+                            "preMatchCsr": {
+                                "value": 0,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "",
+                                "tierStart": 0,
+                                "subTier": 0,
+                                "nextTier": "",
+                                "nextTierStart": 0,
+                                "initialMeasurementMatches": 0
+                            },
+                            "postMatchCsr": {
+                                "value": 0,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "",
+                                "tierStart": 0,
+                                "subTier": 0,
+                                "nextTier": "",
+                                "nextTierStart": 0,
+                                "initialMeasurementMatches": 0
+                            }
+                        },
+                        "statPerformances": {
+                            "kills": {
+                                "count": 15,
+                                "expected": 9.954685278278752,
+                                "stdDev": 3.7401740614770707
+                            },
+                            "deaths": {
+                                "count": 5,
+                                "expected": 7.749941982990268,
+                                "stdDev": 3.5338287459004953
+                            }
+                        },
+                        "teamId": 1,
+                        "teamMmrs": {
+                            "1": 1498.0622582148358,
+                            "0": 1052.9044310933566
+                        },
+                        "rankedRewards": null,
+                        "counterfactuals": {
+                            "selfCounterfactuals": {
+                                "kills": 9.954685278278752,
+                                "deaths": 7.749941982990268
+                            },
+                            "tierCounterfactuals": {
+                                "bronze": null,
+                                "silver": null,
+                                "gold": null,
+                                "platinum": null,
+                                "diamond": null,
+                                "onyx": null
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "110f5fda-e00b-4083-bf23-1ddc7365cd5a": {
+            "value": [
+                {
+                    "id": "xuid(2533274964142528)",
+                    "resultCode": 0,
+                    "result": {
+                        "teamMmr": 1112.1262392098834,
+                        "rankRecap": {
+                            "preMatchCsr": {
+                                "value": 0,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "",
+                                "tierStart": 0,
+                                "subTier": 0,
+                                "nextTier": "",
+                                "nextTierStart": 0,
+                                "initialMeasurementMatches": 0
+                            },
+                            "postMatchCsr": {
+                                "value": 0,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "",
+                                "tierStart": 0,
+                                "subTier": 0,
+                                "nextTier": "",
+                                "nextTierStart": 0,
+                                "initialMeasurementMatches": 0
+                            }
+                        },
+                        "statPerformances": {
+                            "kills": {
+                                "count": 16,
+                                "expected": 13.598882566226921,
+                                "stdDev": 4.282929112118707
+                            },
+                            "deaths": {
+                                "count": 12,
+                                "expected": 9.352796878600754,
+                                "stdDev": 4.006600947222042
+                            }
+                        },
+                        "teamId": 1,
+                        "teamMmrs": {
+                            "1": 1112.1262392098834,
+                            "0": 1103.1502543144074
+                        },
+                        "rankedRewards": null,
+                        "counterfactuals": {
+                            "selfCounterfactuals": {
+                                "kills": 13.598882566226921,
+                                "deaths": 9.352796878600754
+                            },
+                            "tierCounterfactuals": {
+                                "bronze": null,
+                                "silver": null,
+                                "gold": null,
+                                "platinum": null,
+                                "diamond": null,
+                                "onyx": null
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "56ac93c0-e8ca-46d0-a778-494c90316e05": {
+            "value": [
+                {
+                    "id": "xuid(2533274964142528)",
+                    "resultCode": 0,
+                    "result": {
+                        "teamMmr": 1124.1163124776645,
+                        "rankRecap": {
+                            "preMatchCsr": {
+                                "value": 0,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "",
+                                "tierStart": 0,
+                                "subTier": 0,
+                                "nextTier": "",
+                                "nextTierStart": 0,
+                                "initialMeasurementMatches": 0
+                            },
+                            "postMatchCsr": {
+                                "value": 0,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "",
+                                "tierStart": 0,
+                                "subTier": 0,
+                                "nextTier": "",
+                                "nextTierStart": 0,
+                                "initialMeasurementMatches": 0
+                            }
+                        },
+                        "statPerformances": {
+                            "kills": {
+                                "count": 18,
+                                "expected": 16.770817507333117,
+                                "stdDev": 4.761475997248219
+                            },
+                            "deaths": {
+                                "count": 7,
+                                "expected": 9.930747549268228,
+                                "stdDev": 4.413960709031238
+                            }
+                        },
+                        "teamId": 0,
+                        "teamMmrs": {
+                            "1": 991.55655940094,
+                            "0": 1124.1163124776645
+                        },
+                        "rankedRewards": null,
+                        "counterfactuals": {
+                            "selfCounterfactuals": {
+                                "kills": 16.770817507333117,
+                                "deaths": 9.930747549268228
+                            },
+                            "tierCounterfactuals": {
+                                "bronze": null,
+                                "silver": null,
+                                "gold": null,
+                                "platinum": null,
+                                "diamond": null,
+                                "onyx": null
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "bc7af92c-2a1f-49cb-95ab-414731247ea6": {
+            "value": [
+                {
+                    "id": "xuid(2533274964142528)",
+                    "resultCode": 0,
+                    "result": {
+                        "teamMmr": 1013.3282799521618,
+                        "rankRecap": {
+                            "preMatchCsr": {
+                                "value": 0,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "",
+                                "tierStart": 0,
+                                "subTier": 0,
+                                "nextTier": "",
+                                "nextTierStart": 0,
+                                "initialMeasurementMatches": 0
+                            },
+                            "postMatchCsr": {
+                                "value": 0,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "",
+                                "tierStart": 0,
+                                "subTier": 0,
+                                "nextTier": "",
+                                "nextTierStart": 0,
+                                "initialMeasurementMatches": 0
+                            }
+                        },
+                        "statPerformances": {
+                            "kills": {
+                                "count": 0,
+                                "expected": 4.324047151954702,
+                                "stdDev": 2.3308319176722643
+                            },
+                            "deaths": {
+                                "count": 1,
+                                "expected": 3.8344667215526878,
+                                "stdDev": 2.2354055236000896
+                            }
+                        },
+                        "teamId": 1,
+                        "teamMmrs": {
+                            "0": 1005.3647276663378,
+                            "1": 1013.3282799521618
+                        },
+                        "rankedRewards": null,
+                        "counterfactuals": {
+                            "selfCounterfactuals": {
+                                "kills": 4.324047151954702,
+                                "deaths": 3.8344667215526878
+                            },
+                            "tierCounterfactuals": {
+                                "bronze": null,
+                                "silver": null,
+                                "gold": null,
+                                "platinum": null,
+                                "diamond": null,
+                                "onyx": null
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "bb686abc-702c-4480-9a3c-55c7f757ea95": {
+            "value": [
+                {
+                    "id": "xuid(2533274964142528)",
+                    "resultCode": 0,
+                    "result": {
+                        "teamMmr": 1284.163190324053,
+                        "rankRecap": {
+                            "preMatchCsr": {
+                                "value": 1522,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "Onyx",
+                                "tierStart": 1500,
+                                "subTier": 0,
+                                "nextTier": "Onyx",
+                                "nextTierStart": 1500,
+                                "initialMeasurementMatches": 10
+                            },
+                            "postMatchCsr": {
+                                "value": 1525,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "Onyx",
+                                "tierStart": 1500,
+                                "subTier": 0,
+                                "nextTier": "Onyx",
+                                "nextTierStart": 1500,
+                                "initialMeasurementMatches": 10
+                            }
+                        },
+                        "statPerformances": {
+                            "kills": {
+                                "count": 3,
+                                "expected": 6.325210139851667,
+                                "stdDev": 2.650119634248723
+                            },
+                            "deaths": {
+                                "count": 0,
+                                "expected": 3.129493403021097,
+                                "stdDev": 2.3107395025453
+                            }
+                        },
+                        "teamId": 1,
+                        "teamMmrs": {
+                            "0": 1278.1230664999766,
+                            "1": 1284.163190324053
+                        },
+                        "rankedRewards": null,
+                        "counterfactuals": {
+                            "selfCounterfactuals": {
+                                "kills": 6.325210139851667,
+                                "deaths": 3.129493403021097
+                            },
+                            "tierCounterfactuals": {
+                                "bronze": {
+                                    "kills": 1.6877017947476267,
+                                    "deaths": 4.951126842750531
+                                },
+                                "silver": {
+                                    "kills": 2.4750137768404525,
+                                    "deaths": 4.560652923910496
+                                },
+                                "gold": {
+                                    "kills": 3.385807182002766,
+                                    "deaths": 4.176719020046128
+                                },
+                                "platinum": {
+                                    "kills": 4.3089994709579535,
+                                    "deaths": 3.8260769930052496
+                                },
+                                "diamond": {
+                                    "kills": 5.215108113474977,
+                                    "deaths": 3.504004922742636
+                                },
+                                "onyx": {
+                                    "kills": 6.176071842156864,
+                                    "deaths": 3.1787159690169142
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "d0e6f4d8-64c4-404f-a6af-2a8b941a36f8": {
+            "value": [
+                {
+                    "id": "xuid(2533274964142528)",
+                    "resultCode": 0,
+                    "result": {
+                        "teamMmr": 1175.240132795733,
+                        "rankRecap": {
+                            "preMatchCsr": {
+                                "value": 1543,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "Onyx",
+                                "tierStart": 1500,
+                                "subTier": 0,
+                                "nextTier": "Onyx",
+                                "nextTierStart": 1500,
+                                "initialMeasurementMatches": 10
+                            },
+                            "postMatchCsr": {
+                                "value": 1551,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "Onyx",
+                                "tierStart": 1500,
+                                "subTier": 0,
+                                "nextTier": "Onyx",
+                                "nextTierStart": 1500,
+                                "initialMeasurementMatches": 10
+                            }
+                        },
+                        "statPerformances": {
+                            "kills": {
+                                "count": 42,
+                                "expected": 34.082125235664805,
+                                "stdDev": 7.1447277979731005
+                            },
+                            "deaths": {
+                                "count": 28,
+                                "expected": 26.203746554135737,
+                                "stdDev": 6.3463539541598095
+                            }
+                        },
+                        "teamId": 0,
+                        "teamMmrs": {
+                            "1": 1172.2393822011854,
+                            "0": 1175.240132795733
+                        },
+                        "rankedRewards": null,
+                        "counterfactuals": {
+                            "selfCounterfactuals": {
+                                "kills": 34.082125235664805,
+                                "deaths": 26.203746554135737
+                            },
+                            "tierCounterfactuals": {
+                                "bronze": {
+                                    "kills": 8.362248867769008,
+                                    "deaths": 32.507836302128055
+                                },
+                                "silver": {
+                                    "kills": 13.253080706919883,
+                                    "deaths": 31.235997254294695
+                                },
+                                "gold": {
+                                    "kills": 18.403567415820564,
+                                    "deaths": 29.97777778042629
+                                },
+                                "platinum": {
+                                    "kills": 23.196879563751178,
+                                    "deaths": 28.82233254778043
+                                },
+                                "diamond": {
+                                    "kills": 27.651854136999237,
+                                    "deaths": 27.75049013495797
+                                },
+                                "onyx": {
+                                    "kills": 32.46491059360205,
+                                    "deaths": 26.59274632397046
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "174769d7-4f40-4cbd-b640-ec017c9bc884": {
+            "value": [
+                {
+                    "id": "xuid(2533274964142528)",
+                    "resultCode": 0,
+                    "result": {
+                        "teamMmr": 1263.9471350847336,
+                        "rankRecap": {
+                            "preMatchCsr": {
+                                "value": 1531,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "Onyx",
+                                "tierStart": 1500,
+                                "subTier": 0,
+                                "nextTier": "Onyx",
+                                "nextTierStart": 1500,
+                                "initialMeasurementMatches": 10
+                            },
+                            "postMatchCsr": {
+                                "value": 1535,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "Onyx",
+                                "tierStart": 1500,
+                                "subTier": 0,
+                                "nextTier": "Onyx",
+                                "nextTierStart": 1500,
+                                "initialMeasurementMatches": 10
+                            }
+                        },
+                        "statPerformances": {
+                            "kills": {
+                                "count": 19,
+                                "expected": 11.179198872109865,
+                                "stdDev": 3.9995156189556353
+                            },
+                            "deaths": {
+                                "count": 11,
+                                "expected": 8.628484727232085,
+                                "stdDev": 3.7807103359804564
+                            }
+                        },
+                        "teamId": 0,
+                        "teamMmrs": {
+                            "1": 1218.6380153317082,
+                            "0": 1263.9471350847336
+                        },
+                        "rankedRewards": null,
+                        "counterfactuals": {
+                            "selfCounterfactuals": {
+                                "kills": 11.179198872109865,
+                                "deaths": 8.628484727232085
+                            },
+                            "tierCounterfactuals": {
+                                "bronze": {
+                                    "kills": 3.217702795896854,
+                                    "deaths": 11.533480170699239
+                                },
+                                "silver": {
+                                    "kills": 4.793779932725607,
+                                    "deaths": 10.87337269237155
+                                },
+                                "gold": {
+                                    "kills": 6.5475258087527894,
+                                    "deaths": 10.22185541126067
+                                },
+                                "platinum": {
+                                    "kills": 8.227442545561642,
+                                    "deaths": 9.632707785010888
+                                },
+                                "diamond": {
+                                    "kills": 9.800477959293161,
+                                    "deaths": 9.094669589253845
+                                },
+                                "onyx": {
+                                    "kills": 11.446615550990732,
+                                    "deaths": 8.538462658097675
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "eb7d2669-cacc-4895-b29e-2ff07255ad37": {
+            "value": [
+                {
+                    "id": "xuid(2533274964142528)",
+                    "resultCode": 0,
+                    "result": {
+                        "teamMmr": 1109.6947708666185,
+                        "rankRecap": {
+                            "preMatchCsr": {
+                                "value": 1535,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "Onyx",
+                                "tierStart": 1500,
+                                "subTier": 0,
+                                "nextTier": "Onyx",
+                                "nextTierStart": 1500,
+                                "initialMeasurementMatches": 10
+                            },
+                            "postMatchCsr": {
+                                "value": 1543,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "Onyx",
+                                "tierStart": 1500,
+                                "subTier": 0,
+                                "nextTier": "Onyx",
+                                "nextTierStart": 1500,
+                                "initialMeasurementMatches": 10
+                            }
+                        },
+                        "statPerformances": {
+                            "kills": {
+                                "count": 34,
+                                "expected": 23.09244052183422,
+                                "stdDev": 5.941061726753114
+                            },
+                            "deaths": {
+                                "count": 17,
+                                "expected": 17.7913328802325,
+                                "stdDev": 5.323993824413322
+                            }
+                        },
+                        "teamId": 1,
+                        "teamMmrs": {
+                            "1": 1109.6947708666185,
+                            "0": 1154.0009997268444
+                        },
+                        "rankedRewards": null,
+                        "counterfactuals": {
+                            "selfCounterfactuals": {
+                                "kills": 23.09244052183422,
+                                "deaths": 17.7913328802325
+                            },
+                            "tierCounterfactuals": {
+                                "bronze": {
+                                    "kills": 6.652091582209069,
+                                    "deaths": 21.85498170380289
+                                },
+                                "silver": {
+                                    "kills": 10.08741050134213,
+                                    "deaths": 20.946552200910016
+                                },
+                                "gold": {
+                                    "kills": 13.73052934436177,
+                                    "deaths": 20.047877758237867
+                                },
+                                "platinum": {
+                                    "kills": 17.143739714053105,
+                                    "deaths": 19.222653346769725
+                                },
+                                "diamond": {
+                                    "kills": 20.323680406919618,
+                                    "deaths": 18.457204928394194
+                                },
+                                "onyx": {
+                                    "kills": 23.761206841737884,
+                                    "deaths": 17.6305321892764
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "fb1b5b35-a85f-4900-a822-81b4e77c1742": {
+            "value": [
+                {
+                    "id": "xuid(2533274964142528)",
+                    "resultCode": 0,
+                    "result": {
+                        "teamMmr": 1429.6956662720036,
+                        "rankRecap": {
+                            "preMatchCsr": {
+                                "value": 1510,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "Onyx",
+                                "tierStart": 1500,
+                                "subTier": 0,
+                                "nextTier": "Onyx",
+                                "nextTierStart": 1500,
+                                "initialMeasurementMatches": 10
+                            },
+                            "postMatchCsr": {
+                                "value": 1520,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "Onyx",
+                                "tierStart": 1500,
+                                "subTier": 0,
+                                "nextTier": "Onyx",
+                                "nextTierStart": 1500,
+                                "initialMeasurementMatches": 10
+                            }
+                        },
+                        "statPerformances": {
+                            "kills": {
+                                "count": 19,
+                                "expected": 13.855840943849707,
+                                "stdDev": 4.456191115497735
+                            },
+                            "deaths": {
+                                "count": 6,
+                                "expected": 10.865966829848231,
+                                "stdDev": 4.166420782729919
+                            }
+                        },
+                        "teamId": 0,
+                        "teamMmrs": {
+                            "0": 1429.6956662720036,
+                            "1": 1454.9903818690298
+                        },
+                        "rankedRewards": null,
+                        "counterfactuals": {
+                            "selfCounterfactuals": {
+                                "kills": 13.855840943849707,
+                                "deaths": 10.865966829848231
+                            },
+                            "tierCounterfactuals": {
+                                "bronze": {
+                                    "kills": 2.564099597864437,
+                                    "deaths": 15.503530521914543
+                                },
+                                "silver": {
+                                    "kills": 4.563847528118947,
+                                    "deaths": 14.481724039199946
+                                },
+                                "gold": {
+                                    "kills": 6.991617514876389,
+                                    "deaths": 13.46297766870295
+                                },
+                                "platinum": {
+                                    "kills": 9.442799096751706,
+                                    "deaths": 12.51632482097269
+                                },
+                                "diamond": {
+                                    "kills": 11.805524620971843,
+                                    "deaths": 11.629079589998172
+                                },
+                                "onyx": {
+                                    "kills": 14.272971372778535,
+                                    "deaths": 10.71113526615641
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "76daef85-4554-423c-918b-d96945db9b10": {
+            "value": [
+                {
+                    "id": "xuid(2533274964142528)",
+                    "resultCode": 0,
+                    "result": {
+                        "teamMmr": 1081.0807704309968,
+                        "rankRecap": {
+                            "preMatchCsr": {
+                                "value": 1525,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "Onyx",
+                                "tierStart": 1500,
+                                "subTier": 0,
+                                "nextTier": "Onyx",
+                                "nextTierStart": 1500,
+                                "initialMeasurementMatches": 10
+                            },
+                            "postMatchCsr": {
+                                "value": 1531,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "Onyx",
+                                "tierStart": 1500,
+                                "subTier": 0,
+                                "nextTier": "Onyx",
+                                "nextTierStart": 1500,
+                                "initialMeasurementMatches": 10
+                            }
+                        },
+                        "statPerformances": {
+                            "kills": {
+                                "count": 26,
+                                "expected": 19.178862313734175,
+                                "stdDev": 5.551766738138312
+                            },
+                            "deaths": {
+                                "count": 14,
+                                "expected": 15.660672963771004,
+                                "stdDev": 5.000897955250315
+                            }
+                        },
+                        "teamId": 0,
+                        "teamMmrs": {
+                            "1": 1078.4070364687473,
+                            "0": 1081.0807704309968
+                        },
+                        "rankedRewards": null,
+                        "counterfactuals": {
+                            "selfCounterfactuals": {
+                                "kills": 19.178862313734175,
+                                "deaths": 15.660672963771004
+                            },
+                            "tierCounterfactuals": {
+                                "bronze": {
+                                    "kills": 6.107008442217068,
+                                    "deaths": 18.911004509431823
+                                },
+                                "silver": {
+                                    "kills": 9.125667183700752,
+                                    "deaths": 18.107281484077646
+                                },
+                                "gold": {
+                                    "kills": 12.334715300551101,
+                                    "deaths": 17.312239427102377
+                                },
+                                "platinum": {
+                                    "kills": 15.349483371782792,
+                                    "deaths": 16.582250125725576
+                                },
+                                "diamond": {
+                                    "kills": 18.161717239022977,
+                                    "deaths": 15.905235865235133
+                                },
+                                "onyx": {
+                                    "kills": 21.20295493334311,
+                                    "deaths": 15.174230080648895
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "abbc1d46-36cb-4012-a740-dd8c2b815bfd": {
+            "value": [
+                {
+                    "id": "xuid(2533274964142528)",
+                    "resultCode": 0,
+                    "result": {
+                        "teamMmr": 1332.154537963112,
+                        "rankRecap": {
+                            "preMatchCsr": {
+                                "value": 1510,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "Onyx",
+                                "tierStart": 1500,
+                                "subTier": 0,
+                                "nextTier": "Onyx",
+                                "nextTierStart": 1500,
+                                "initialMeasurementMatches": 10
+                            },
+                            "postMatchCsr": {
+                                "value": 1513,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "Onyx",
+                                "tierStart": 1500,
+                                "subTier": 0,
+                                "nextTier": "Onyx",
+                                "nextTierStart": 1500,
+                                "initialMeasurementMatches": 10
+                            }
+                        },
+                        "statPerformances": {
+                            "kills": {
+                                "count": 10,
+                                "expected": 11.746193685321797,
+                                "stdDev": 4.19871774090658
+                            },
+                            "deaths": {
+                                "count": 9,
+                                "expected": 9.9822658539414,
+                                "stdDev": 3.9423162432849965
+                            }
+                        },
+                        "teamId": 1,
+                        "teamMmrs": {
+                            "0": 1399.7438680667115,
+                            "1": 1332.154537963112
+                        },
+                        "rankedRewards": null,
+                        "counterfactuals": {
+                            "selfCounterfactuals": {
+                                "kills": 11.746193685321797,
+                                "deaths": 9.9822658539414
+                            },
+                            "tierCounterfactuals": {
+                                "bronze": {
+                                    "kills": 2.370325158460683,
+                                    "deaths": 13.890493109875658
+                                },
+                                "silver": {
+                                    "kills": 4.13167762884395,
+                                    "deaths": 12.976632063684017
+                                },
+                                "gold": {
+                                    "kills": 6.272314666983985,
+                                    "deaths": 12.065684469432885
+                                },
+                                "platinum": {
+                                    "kills": 8.44661293222367,
+                                    "deaths": 11.219484683243849
+                                },
+                                "diamond": {
+                                    "kills": 10.552522729390393,
+                                    "deaths": 10.42679398997388
+                                },
+                                "onyx": {
+                                    "kills": 12.757161063879174,
+                                    "deaths": 9.607304049087915
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "d02d1c92-2e12-49a1-85dc-ed9d0b65eb98": {
+            "value": [
+                {
+                    "id": "xuid(2533274964142528)",
+                    "resultCode": 0,
+                    "result": {
+                        "teamMmr": 1560.1638614625679,
+                        "rankRecap": {
+                            "preMatchCsr": {
+                                "value": 1520,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "Onyx",
+                                "tierStart": 1500,
+                                "subTier": 0,
+                                "nextTier": "Onyx",
+                                "nextTierStart": 1500,
+                                "initialMeasurementMatches": 10
+                            },
+                            "postMatchCsr": {
+                                "value": 1522,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "Onyx",
+                                "tierStart": 1500,
+                                "subTier": 0,
+                                "nextTier": "Onyx",
+                                "nextTierStart": 1500,
+                                "initialMeasurementMatches": 10
+                            }
+                        },
+                        "statPerformances": {
+                            "kills": {
+                                "count": 11,
+                                "expected": 14.015679687079604,
+                                "stdDev": 4.170104522115378
+                            },
+                            "deaths": {
+                                "count": 6,
+                                "expected": 8.512373775824797,
+                                "stdDev": 3.916579947951437
+                            }
+                        },
+                        "teamId": 1,
+                        "teamMmrs": {
+                            "1": 1560.1638614625679,
+                            "0": 1451.388746893305
+                        },
+                        "rankedRewards": null,
+                        "counterfactuals": {
+                            "selfCounterfactuals": {
+                                "kills": 14.015679687079604,
+                                "deaths": 8.512373775824797
+                            },
+                            "tierCounterfactuals": {
+                                "bronze": {
+                                    "kills": 2.6922151196158772,
+                                    "deaths": 12.079107764517536
+                                },
+                                "silver": {
+                                    "kills": 4.498705035038787,
+                                    "deaths": 11.38188942054859
+                                },
+                                "gold": {
+                                    "kills": 6.628521186818447,
+                                    "deaths": 10.687989585649447
+                                },
+                                "platinum": {
+                                    "kills": 8.740101445117851,
+                                    "deaths": 10.049691045375369
+                                },
+                                "diamond": {
+                                    "kills": 10.781127622803542,
+                                    "deaths": 9.449937633219186
+                                },
+                                "onyx": {
+                                    "kills": 12.984653270377468,
+                                    "deaths": 8.810055705557449
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "4d499e70-d5f7-4ca0-a5b4-6271152b98e4": {
+            "value": [
+                {
+                    "id": "xuid(2533274964142528)",
+                    "resultCode": 0,
+                    "result": {
+                        "teamMmr": 996.9464692631664,
+                        "rankRecap": {
+                            "preMatchCsr": {
+                                "value": 0,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "",
+                                "tierStart": 0,
+                                "subTier": 0,
+                                "nextTier": "",
+                                "nextTierStart": 0,
+                                "initialMeasurementMatches": 0
+                            },
+                            "postMatchCsr": {
+                                "value": 0,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "",
+                                "tierStart": 0,
+                                "subTier": 0,
+                                "nextTier": "",
+                                "nextTierStart": 0,
+                                "initialMeasurementMatches": 0
+                            }
+                        },
+                        "statPerformances": {
+                            "kills": {
+                                "count": 27,
+                                "expected": 17.74512071656173,
+                                "stdDev": 4.397086714892566
+                            },
+                            "deaths": {
+                                "count": 11,
+                                "expected": 10.332039148176344,
+                                "stdDev": 3.8961132909668392
+                            }
+                        },
+                        "teamId": 0,
+                        "teamMmrs": {
+                            "1": 985.7512375891363,
+                            "0": 996.9464692631664
+                        },
+                        "rankedRewards": null,
+                        "counterfactuals": {
+                            "selfCounterfactuals": {
+                                "kills": 17.74512071656173,
+                                "deaths": 10.332039148176344
+                            },
+                            "tierCounterfactuals": {
+                                "bronze": null,
+                                "silver": null,
+                                "gold": null,
+                                "platinum": null,
+                                "diamond": null,
+                                "onyx": null
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "d841fec6-479d-4bcd-8c3f-deee7e8e04ac": {
+            "value": [
+                {
+                    "id": "xuid(2533274964142528)",
+                    "resultCode": 0,
+                    "result": {
+                        "teamMmr": 1178.9398355902945,
+                        "rankRecap": {
+                            "preMatchCsr": {
+                                "value": 1518,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "Onyx",
+                                "tierStart": 1500,
+                                "subTier": 0,
+                                "nextTier": "Onyx",
+                                "nextTierStart": 1500,
+                                "initialMeasurementMatches": 10
+                            },
+                            "postMatchCsr": {
+                                "value": 1510,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "Onyx",
+                                "tierStart": 1500,
+                                "subTier": 0,
+                                "nextTier": "Onyx",
+                                "nextTierStart": 1500,
+                                "initialMeasurementMatches": 10
+                            }
+                        },
+                        "statPerformances": {
+                            "kills": {
+                                "count": 24,
+                                "expected": 21.345088222578784,
+                                "stdDev": 6.113065111911168
+                            },
+                            "deaths": {
+                                "count": 22,
+                                "expected": 20.68687672392329,
+                                "stdDev": 5.4836183776687735
+                            }
+                        },
+                        "teamId": 1,
+                        "teamMmrs": {
+                            "0": 1179.3842207892112,
+                            "1": 1178.9398355902945
+                        },
+                        "rankedRewards": null,
+                        "counterfactuals": {
+                            "selfCounterfactuals": {
+                                "kills": 21.345088222578784,
+                                "deaths": 20.68687672392329
+                            },
+                            "tierCounterfactuals": {
+                                "bronze": {
+                                    "kills": 6.150522902185419,
+                                    "deaths": 24.487500217059893
+                                },
+                                "silver": {
+                                    "kills": 9.615658542515396,
+                                    "deaths": 23.54685078037846
+                                },
+                                "gold": {
+                                    "kills": 13.354967330935967,
+                                    "deaths": 22.616280452282904
+                                },
+                                "platinum": {
+                                    "kills": 16.881284446626946,
+                                    "deaths": 21.761731701839974
+                                },
+                                "diamond": {
+                                    "kills": 20.172412171453587,
+                                    "deaths": 20.969030673468275
+                                },
+                                "onyx": {
+                                    "kills": 23.731515194631193,
+                                    "deaths": 20.11283090552551
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "d1d0e64f-656e-475a-a1fa-c40fcb09eb95": {
+            "value": [
+                {
+                    "id": "xuid(2533274964142528)",
+                    "resultCode": 0,
+                    "result": {
+                        "teamMmr": 1426.661661365446,
+                        "rankRecap": {
+                            "preMatchCsr": {
+                                "value": 1522,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "Onyx",
+                                "tierStart": 1500,
+                                "subTier": 0,
+                                "nextTier": "Onyx",
+                                "nextTierStart": 1500,
+                                "initialMeasurementMatches": 10
+                            },
+                            "postMatchCsr": {
+                                "value": 1525,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "Onyx",
+                                "tierStart": 1500,
+                                "subTier": 0,
+                                "nextTier": "Onyx",
+                                "nextTierStart": 1500,
+                                "initialMeasurementMatches": 10
+                            }
+                        },
+                        "statPerformances": {
+                            "kills": {
+                                "count": 6,
+                                "expected": 9.307005080313528,
+                                "stdDev": 3.4831415597832693
+                            },
+                            "deaths": {
+                                "count": 3,
+                                "expected": 5.615469969859632,
+                                "stdDev": 3.1688512088429692
+                            }
+                        },
+                        "teamId": 0,
+                        "teamMmrs": {
+                            "1": 1414.3649707386558,
+                            "0": 1426.661661365446
+                        },
+                        "rankedRewards": null,
+                        "counterfactuals": {
+                            "selfCounterfactuals": {
+                                "kills": 9.307005080313528,
+                                "deaths": 5.615469969859632
+                            },
+                            "tierCounterfactuals": {
+                                "bronze": {
+                                    "kills": 2.3352423143160026,
+                                    "deaths": 8.430708149649575
+                                },
+                                "silver": {
+                                    "kills": 3.6538568910015536,
+                                    "deaths": 7.786501139606176
+                                },
+                                "gold": {
+                                    "kills": 5.1868866636727775,
+                                    "deaths": 7.147266114132089
+                                },
+                                "platinum": {
+                                    "kills": 6.723847325534009,
+                                    "deaths": 6.557359548197184
+                                },
+                                "diamond": {
+                                    "kills": 8.211910235666117,
+                                    "deaths": 6.009542217864219
+                                },
+                                "onyx": {
+                                    "kills": 9.77305042849761,
+                                    "deaths": 5.449728293979529
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "80ea22c2-831d-4c65-b5d8-36209c6cd42b": {
+            "value": [
+                {
+                    "id": "xuid(2533274964142528)",
+                    "resultCode": 0,
+                    "result": {
+                        "teamMmr": 1402.7971191233441,
+                        "rankRecap": {
+                            "preMatchCsr": {
+                                "value": 1515,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "Onyx",
+                                "tierStart": 1500,
+                                "subTier": 0,
+                                "nextTier": "Onyx",
+                                "nextTierStart": 1500,
+                                "initialMeasurementMatches": 10
+                            },
+                            "postMatchCsr": {
+                                "value": 1510,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "Onyx",
+                                "tierStart": 1500,
+                                "subTier": 0,
+                                "nextTier": "Onyx",
+                                "nextTierStart": 1500,
+                                "initialMeasurementMatches": 10
+                            }
+                        },
+                        "statPerformances": {
+                            "kills": {
+                                "count": 12,
+                                "expected": 10.863608228481738,
+                                "stdDev": 4.059080503912018
+                            },
+                            "deaths": {
+                                "count": 12,
+                                "expected": 10.996546936248288,
+                                "stdDev": 3.87083612846126
+                            }
+                        },
+                        "teamId": 1,
+                        "teamMmrs": {
+                            "0": 1416.955458774818,
+                            "1": 1402.7971191233441
+                        },
+                        "rankedRewards": null,
+                        "counterfactuals": {
+                            "selfCounterfactuals": {
+                                "kills": 10.863608228481738,
+                                "deaths": 10.996546936248288
+                            },
+                            "tierCounterfactuals": {
+                                "bronze": {
+                                    "kills": 2.8294328776216546,
+                                    "deaths": 14.000664998068158
+                                },
+                                "silver": {
+                                    "kills": 4.366682731919422,
+                                    "deaths": 13.320454226481422
+                                },
+                                "gold": {
+                                    "kills": 6.122722825306416,
+                                    "deaths": 12.648405308477656
+                                },
+                                "platinum": {
+                                    "kills": 7.830158083248858,
+                                    "deaths": 12.039776313793496
+                                },
+                                "diamond": {
+                                    "kills": 9.440473654326805,
+                                    "deaths": 11.482829743203085
+                                },
+                                "onyx": {
+                                    "kills": 11.131058509844536,
+                                    "deaths": 10.905491645160442
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "61de015a-e35f-4892-8cc8-8de2f758e0c3": {
+            "value": [
+                {
+                    "id": "xuid(2533274964142528)",
+                    "resultCode": 0,
+                    "result": {
+                        "teamMmr": 1502.7781477900626,
+                        "rankRecap": {
+                            "preMatchCsr": {
+                                "value": 1514,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "Onyx",
+                                "tierStart": 1500,
+                                "subTier": 0,
+                                "nextTier": "Onyx",
+                                "nextTierStart": 1500,
+                                "initialMeasurementMatches": 10
+                            },
+                            "postMatchCsr": {
+                                "value": 1522,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "Onyx",
+                                "tierStart": 1500,
+                                "subTier": 0,
+                                "nextTier": "Onyx",
+                                "nextTierStart": 1500,
+                                "initialMeasurementMatches": 10
+                            }
+                        },
+                        "statPerformances": {
+                            "kills": {
+                                "count": 29,
+                                "expected": 26.6267828689218,
+                                "stdDev": 6.263724086235719
+                            },
+                            "deaths": {
+                                "count": 22,
+                                "expected": 22.21164796284757,
+                                "stdDev": 5.812303339552965
+                            }
+                        },
+                        "teamId": 0,
+                        "teamMmrs": {
+                            "0": 1502.7781477900626,
+                            "1": 1473.4343398914982
+                        },
+                        "rankedRewards": null,
+                        "counterfactuals": {
+                            "selfCounterfactuals": {
+                                "kills": 26.6267828689218,
+                                "deaths": 22.21164796284757
+                            },
+                            "tierCounterfactuals": {
+                                "bronze": {
+                                    "kills": 3.2659939953986536,
+                                    "deaths": 29.598022777823545
+                                },
+                                "silver": {
+                                    "kills": 6.866306739416338,
+                                    "deaths": 28.14786455984198
+                                },
+                                "gold": {
+                                    "kills": 11.38151966182609,
+                                    "deaths": 26.702899706626923
+                                },
+                                "platinum": {
+                                    "kills": 15.850503275693727,
+                                    "deaths": 25.371299028874606
+                                },
+                                "diamond": {
+                                    "kills": 20.122950749140063,
+                                    "deaths": 24.11687301882417
+                                },
+                                "onyx": {
+                                    "kills": 24.708888963603552,
+                                    "deaths": 22.773381231670477
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "5fd59493-5f5f-4003-8f61-bd70c15fbb41": {
+            "value": [
+                {
+                    "id": "xuid(2533274964142528)",
+                    "resultCode": 0,
+                    "result": {
+                        "teamMmr": 1221.4532433381992,
+                        "rankRecap": {
+                            "preMatchCsr": {
+                                "value": 1525,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "Onyx",
+                                "tierStart": 1500,
+                                "subTier": 0,
+                                "nextTier": "Onyx",
+                                "nextTierStart": 1500,
+                                "initialMeasurementMatches": 10
+                            },
+                            "postMatchCsr": {
+                                "value": 1515,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "Onyx",
+                                "tierStart": 1500,
+                                "subTier": 0,
+                                "nextTier": "Onyx",
+                                "nextTierStart": 1500,
+                                "initialMeasurementMatches": 10
+                            }
+                        },
+                        "statPerformances": {
+                            "kills": {
+                                "count": 16,
+                                "expected": 24.773047347005313,
+                                "stdDev": 6.334497306136419
+                            },
+                            "deaths": {
+                                "count": 21,
+                                "expected": 21.11010399988835,
+                                "stdDev": 5.54285247443923
+                            }
+                        },
+                        "teamId": 0,
+                        "teamMmrs": {
+                            "1": 1193.1745426310522,
+                            "0": 1221.4532433381992
+                        },
+                        "rankedRewards": null,
+                        "counterfactuals": {
+                            "selfCounterfactuals": {
+                                "kills": 24.773047347005313,
+                                "deaths": 21.11010399988835
+                            },
+                            "tierCounterfactuals": {
+                                "bronze": {
+                                    "kills": 6.260789924675076,
+                                    "deaths": 25.7201947935051
+                                },
+                                "silver": {
+                                    "kills": 9.836350204907312,
+                                    "deaths": 24.745043930769445
+                                },
+                                "gold": {
+                                    "kills": 13.70650367809054,
+                                    "deaths": 23.780338399944245
+                                },
+                                "platinum": {
+                                    "kills": 17.36056778778351,
+                                    "deaths": 22.894437291122397
+                                },
+                                "diamond": {
+                                    "kills": 20.772078075798024,
+                                    "deaths": 22.07264417048673
+                                },
+                                "onyx": {
+                                    "kills": 24.461653761636168,
+                                    "deaths": 21.185005434767714
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "3addf8c1-b577-4e23-bf61-9cab0e029762": {
+            "value": [
+                {
+                    "id": "xuid(2533274964142528)",
+                    "resultCode": 0,
+                    "result": {
+                        "teamMmr": 1247.4124938286814,
+                        "rankRecap": {
+                            "preMatchCsr": {
+                                "value": 0,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "",
+                                "tierStart": 0,
+                                "subTier": 0,
+                                "nextTier": "",
+                                "nextTierStart": 0,
+                                "initialMeasurementMatches": 0
+                            },
+                            "postMatchCsr": {
+                                "value": 0,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "",
+                                "tierStart": 0,
+                                "subTier": 0,
+                                "nextTier": "",
+                                "nextTierStart": 0,
+                                "initialMeasurementMatches": 0
+                            }
+                        },
+                        "statPerformances": {
+                            "kills": {
+                                "count": 20,
+                                "expected": 13.591949931341436,
+                                "stdDev": 3.734782632380737
+                            },
+                            "deaths": {
+                                "count": 7,
+                                "expected": 9.017204888521404,
+                                "stdDev": 3.3708316776968377
+                            }
+                        },
+                        "teamId": 0,
+                        "teamMmrs": {
+                            "0": 1247.4124938286814,
+                            "1": 1250.2842416375754
+                        },
+                        "rankedRewards": null,
+                        "counterfactuals": {
+                            "selfCounterfactuals": {
+                                "kills": 13.591949931341436,
+                                "deaths": 9.017204888521404
+                            },
+                            "tierCounterfactuals": {
+                                "bronze": null,
+                                "silver": null,
+                                "gold": null,
+                                "platinum": null,
+                                "diamond": null,
+                                "onyx": null
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "7a9a6d84-1b60-408d-9d14-67ee91321029": {
+            "value": [
+                {
+                    "id": "xuid(2533274964142528)",
+                    "resultCode": 0,
+                    "result": {
+                        "teamMmr": 1353.9900554564454,
+                        "rankRecap": {
+                            "preMatchCsr": {
+                                "value": 1360,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "Diamond",
+                                "tierStart": 1350,
+                                "subTier": 3,
+                                "nextTier": "Diamond",
+                                "nextTierStart": 1400,
+                                "initialMeasurementMatches": 10
+                            },
+                            "postMatchCsr": {
+                                "value": 1359,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "Diamond",
+                                "tierStart": 1350,
+                                "subTier": 3,
+                                "nextTier": "Diamond",
+                                "nextTierStart": 1400,
+                                "initialMeasurementMatches": 10
+                            }
+                        },
+                        "statPerformances": {
+                            "kills": {
+                                "count": 10,
+                                "expected": 10.945415223922048,
+                                "stdDev": 4.237391159688661
+                            },
+                            "deaths": {
+                                "count": 13,
+                                "expected": 11.710613226659792,
+                                "stdDev": 4.0464212776192285
+                            }
+                        },
+                        "teamId": 1,
+                        "teamMmrs": {
+                            "0": 1389.697702355158,
+                            "1": 1353.9900554564454
+                        },
+                        "rankedRewards": null,
+                        "counterfactuals": {
+                            "selfCounterfactuals": {
+                                "kills": 10.945415223922048,
+                                "deaths": 11.710613226659792
+                            },
+                            "tierCounterfactuals": {
+                                "bronze": {
+                                    "kills": 3.5641331251375474,
+                                    "deaths": 14.724198489693375
+                                },
+                                "silver": {
+                                    "kills": 5.058645524517403,
+                                    "deaths": 14.033187219521238
+                                },
+                                "gold": {
+                                    "kills": 6.695370879772211,
+                                    "deaths": 13.352637097143937
+                                },
+                                "platinum": {
+                                    "kills": 8.302930705511235,
+                                    "deaths": 12.719985046811944
+                                },
+                                "diamond": {
+                                    "kills": 9.873962875948433,
+                                    "deaths": 12.11734897750508
+                                },
+                                "onyx": {
+                                    "kills": 11.469030912257832,
+                                    "deaths": 11.5125580133176
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "ef3b253f-c510-4618-b053-a12ac62b2336": {
+            "value": [
+                {
+                    "id": "xuid(2533274964142528)",
+                    "resultCode": 0,
+                    "result": {
+                        "teamMmr": 843.3009721701577,
+                        "rankRecap": {
+                            "preMatchCsr": {
+                                "value": 0,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "",
+                                "tierStart": 0,
+                                "subTier": 0,
+                                "nextTier": "",
+                                "nextTierStart": 0,
+                                "initialMeasurementMatches": 0
+                            },
+                            "postMatchCsr": {
+                                "value": 0,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "",
+                                "tierStart": 0,
+                                "subTier": 0,
+                                "nextTier": "",
+                                "nextTierStart": 0,
+                                "initialMeasurementMatches": 0
+                            }
+                        },
+                        "statPerformances": {
+                            "kills": {
+                                "count": 11,
+                                "expected": 11.789429063876153,
+                                "stdDev": 4.716386490955198
+                            },
+                            "deaths": {
+                                "count": 6,
+                                "expected": 6.395598674500857,
+                                "stdDev": 4.203881938367727
+                            }
+                        },
+                        "teamId": 1,
+                        "teamMmrs": {
+                            "1": 843.3009721701577,
+                            "0": 863.2683691283236
+                        },
+                        "rankedRewards": null,
+                        "counterfactuals": {
+                            "selfCounterfactuals": {
+                                "kills": 11.789429063876153,
+                                "deaths": 6.395598674500857
+                            },
+                            "tierCounterfactuals": {
+                                "bronze": null,
+                                "silver": null,
+                                "gold": null,
+                                "platinum": null,
+                                "diamond": null,
+                                "onyx": null
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "9048e42d-53ce-4bb0-9130-902c9222dbe1": {
+            "value": [
+                {
+                    "id": "xuid(2533274964142528)",
+                    "resultCode": 0,
+                    "result": {
+                        "teamMmr": 1289.6472795368886,
+                        "rankRecap": {
+                            "preMatchCsr": {
+                                "value": 1513,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "Onyx",
+                                "tierStart": 1500,
+                                "subTier": 0,
+                                "nextTier": "Onyx",
+                                "nextTierStart": 1500,
+                                "initialMeasurementMatches": 10
+                            },
+                            "postMatchCsr": {
+                                "value": 1515,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "Onyx",
+                                "tierStart": 1500,
+                                "subTier": 0,
+                                "nextTier": "Onyx",
+                                "nextTierStart": 1500,
+                                "initialMeasurementMatches": 10
+                            }
+                        },
+                        "statPerformances": {
+                            "kills": {
+                                "count": 20,
+                                "expected": 16.032270854818915,
+                                "stdDev": 5.02882463300009
+                            },
+                            "deaths": {
+                                "count": 14,
+                                "expected": 13.885495814534298,
+                                "stdDev": 4.668843689631033
+                            }
+                        },
+                        "teamId": 0,
+                        "teamMmrs": {
+                            "0": 1289.6472795368886,
+                            "1": 1358.0849845412374
+                        },
+                        "rankedRewards": null,
+                        "counterfactuals": {
+                            "selfCounterfactuals": {
+                                "kills": 16.032270854818915,
+                                "deaths": 13.885495814534298
+                            },
+                            "tierCounterfactuals": {
+                                "bronze": {
+                                    "kills": 2.76340932582096,
+                                    "deaths": 19.35029540967432
+                                },
+                                "silver": {
+                                    "kills": 5.217511789470281,
+                                    "deaths": 18.087883416338
+                                },
+                                "gold": {
+                                    "kills": 8.242262873956612,
+                                    "deaths": 16.829010864151247
+                                },
+                                "platinum": {
+                                    "kills": 11.291817916324916,
+                                    "deaths": 15.65878354670408
+                                },
+                                "diamond": {
+                                    "kills": 14.219649899216895,
+                                    "deaths": 14.56127852687965
+                                },
+                                "onyx": {
+                                    "kills": 17.27048428987987,
+                                    "deaths": 13.424550203922319
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "506a01d7-15c7-417c-b105-5f0d5d00dad3": {
+            "value": [
+                {
+                    "id": "xuid(2533274964142528)",
+                    "resultCode": 0,
+                    "result": {
+                        "teamMmr": 1472.745231243222,
+                        "rankRecap": {
+                            "preMatchCsr": {
+                                "value": 1515,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "Onyx",
+                                "tierStart": 1500,
+                                "subTier": 0,
+                                "nextTier": "Onyx",
+                                "nextTierStart": 1500,
+                                "initialMeasurementMatches": 10
+                            },
+                            "postMatchCsr": {
+                                "value": 1518,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "Onyx",
+                                "tierStart": 1500,
+                                "subTier": 0,
+                                "nextTier": "Onyx",
+                                "nextTierStart": 1500,
+                                "initialMeasurementMatches": 10
+                            }
+                        },
+                        "statPerformances": {
+                            "kills": {
+                                "count": 19,
+                                "expected": 22.633735051889584,
+                                "stdDev": 5.598167729189211
+                            },
+                            "deaths": {
+                                "count": 18,
+                                "expected": 16.36837509242061,
+                                "stdDev": 5.23112186212043
+                            }
+                        },
+                        "teamId": 1,
+                        "teamMmrs": {
+                            "0": 1439.308772732219,
+                            "1": 1472.745231243222
+                        },
+                        "rankedRewards": null,
+                        "counterfactuals": {
+                            "selfCounterfactuals": {
+                                "kills": 22.633735051889584,
+                                "deaths": 16.36837509242061
+                            },
+                            "tierCounterfactuals": {
+                                "bronze": {
+                                    "kills": 3.256408671236793,
+                                    "deaths": 22.4653128491288
+                                },
+                                "silver": {
+                                    "kills": 6.279275579127822,
+                                    "deaths": 21.28258817350524
+                                },
+                                "gold": {
+                                    "kills": 9.962723833174296,
+                                    "deaths": 20.10412721642259
+                                },
+                                "platinum": {
+                                    "kills": 13.597253550196067,
+                                    "deaths": 19.01817975752355
+                                },
+                                "diamond": {
+                                    "kills": 17.07802749783826,
+                                    "deaths": 17.995277906319863
+                                },
+                                "onyx": {
+                                    "kills": 20.817499476545358,
+                                    "deaths": 16.899982900597678
+                                }
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "33f72c89-b23f-423e-a63d-ab48f3c38fd0": {
+            "value": [
+                {
+                    "id": "xuid(2533274964142528)",
+                    "resultCode": 0,
+                    "result": {
+                        "teamMmr": 769.6390888990571,
+                        "rankRecap": {
+                            "preMatchCsr": {
+                                "value": 0,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "",
+                                "tierStart": 0,
+                                "subTier": 0,
+                                "nextTier": "",
+                                "nextTierStart": 0,
+                                "initialMeasurementMatches": 0
+                            },
+                            "postMatchCsr": {
+                                "value": 0,
+                                "measurementMatchesRemaining": 0,
+                                "tier": "",
+                                "tierStart": 0,
+                                "subTier": 0,
+                                "nextTier": "",
+                                "nextTierStart": 0,
+                                "initialMeasurementMatches": 0
+                            }
+                        },
+                        "statPerformances": {
+                            "kills": {
+                                "count": 25,
+                                "expected": 13.771004866633367,
+                                "stdDev": 5.235233576615104
+                            },
+                            "deaths": {
+                                "count": 11,
+                                "expected": 10.668332183995501,
+                                "stdDev": 4.573611849109477
+                            }
+                        },
+                        "teamId": 0,
+                        "teamMmrs": {
+                            "0": 769.6390888990571,
+                            "1": 735.9212286958056
+                        },
+                        "rankedRewards": null,
+                        "counterfactuals": {
+                            "selfCounterfactuals": {
+                                "kills": 13.771004866633367,
+                                "deaths": 10.668332183995501
+                            },
+                            "tierCounterfactuals": {
+                                "bronze": null,
+                                "silver": null,
+                                "gold": null,
+                                "platinum": null,
+                                "diamond": null,
+                                "onyx": null
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

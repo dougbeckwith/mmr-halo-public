@@ -1,0 +1,7 @@
+export const Playlist_CrossPlay = "Crossplay" 
+export const Playlist_KBM = "Solo Duo KBM" 
+export const Playlist_Controller = "Solo Duo Controller" 
+export const Playlist_AllQueues = "All Queues"
+export const Playlist_CrossPlay_Playlist_VersionId = "3d919919-7b0f-4eb6-b110-fd38fcefa9bd"
+export const Playlist_KBM_Playlist_VersionId = "6ee19ae1-d3c8-40c4-b092-9c5b76e170fd" 
+export const Playlist_Controller_Playlist_VersionId = "1e177616-112e-4108-a3fe-e56953a38c2f" 
