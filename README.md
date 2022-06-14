@@ -5,7 +5,7 @@ It uses the returned data to display information about each cryptocurrency.
 You can filter cryptocurrencies,view charts, and make a watchlist.
 Live version: https://halommr.com/
 
-<a href="https://halommr.com/" target="_blank">external link</a>
+<a href="https://halommr.com/" target="_blank" rel="noopener noreferrer">external link</a>
 
 ![](images/halo-mmr-2.png)
 ![](images/halo-mmr-1.png)
