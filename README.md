@@ -6,7 +6,7 @@
 - Although the game has become inactive and we no longer play it, we have taken it down. 
 - It provided users with the capability to compare their hidden rank with their current rank.
 - You can gauge the difficulty of the match by comparing the MMR (Matchmaking Rating) of your team to that of the enemy team.
-- Users could also view the projected number of kills and deaths that the match expected them to achieve.
+- Users could also access information on the projected number of kills and deaths, including the standard deviation, that the match anticipated them to achieve.
 
 
 ![](images/halo-mmr-2.png)
